@@ -69,7 +69,7 @@ ___
 * Shield Master - *BA allowed before attacking*
 
 
-#### Useful Links
+## Useful Links
 ___
 Aurora Builder - `https://aurorabuilder.com/get-started/`
 ___
