@@ -60,8 +60,6 @@ ___
 - **Optional Class Features** [TCE mostly] *5eTools to see all*
 - **Customizing Your Origin** [TCE 8] *Mountain Dwarf Party = TPK*
 
-\columnbreak
-
 ### **Homebrew**
 * Dungeon Dude's Crits - *normal damage + max damage die*
 * Critical Role's Rapid Quaffing - *BA self-potioning*
@@ -75,9 +73,9 @@ ___
 ___
 Aurora Builder - `https://aurorabuilder.com/get-started/`
 ___
-Aurora Legacy Content Repo - `https://raw.githubusercontent.com` +
-`/AuroraLegacy/elements/master/core.index` 
-`/AuroraLegacy/elements/master/supplements.index`
+Aurora Legacy Content Repo - 
+`https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index` 
+`https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index`
 
 ___
 My Homebrew Aurora repo - 
@@ -86,4 +84,3 @@ ___
 5eTools - `https://get.5e.tools/index.html`
 ___
 
-___
