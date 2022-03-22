@@ -386,7 +386,6 @@ This island town is known as a haven for the arts, and the artists' parents' vac
 
 <img src='https://www.gmbinder.com/images/wmxOMMY.png' style='width:320px'/>
 
-
 ### Evexum
 This logging city is the last supply point for anyone trekking through the dangerous Eshean Woods to get to Victre, or can be the light at the end of the tunnel for those making the opposite journey.
 
@@ -487,7 +486,9 @@ This city is the gate to the Eshean Wood and the path that goes through to Evexu
 
 Description
 
-The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual successor chosen by the current High Vekz, whom was chosen by the previous. Those that show affinity for the gifts of the High Vekz are sent to Tal'Dorei to join the Mercer Academy where they learn the rites and rituals related to the High Vekz and their traditions, although only one is chosen they can be chosen at anytime as the High Vekz will know when their successor is ready. Those that are unchosen are still set up to be the leaders of their communities.
+The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual successor chosen by the current High Vekz, whom was chosen by the previous. Those that show affinity for the gifts of the High Vekz are sent to Tal'Dorei to join the Mercer Academy where they learn the rites and rituals related to the High Vekz and their traditions, although only one is chosen they can be chosen at anytime, as the High Vekz will know when their successor is ready. Those that are unchosen are still set up to be the leaders of their communities.
+    
+The Veks are a neat and tidy people known to not be seen with nary a hair out of place. Let you in on a secret, they made us put the clothes in the bag so the adventurers always looked presentable. Most of them are kinda stuck up but that's likely due to them finding much outsiders are concerned with trivial as they have almost triple the lifespan of the other races whom all live to 80/100 while the average fey touched creatures found here are known to regularly reach 240 to almost 300.
 
 <img src='https://www.gmbinder.com/images/El3eL3q.png' style='position:absolute;top:250px;left:8px;width:800px' />
 
@@ -501,7 +502,7 @@ The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual suc
 **Population** 21.5K
 ___
 
-Description
+Whitspire is home of the famous Castle Whitespire, seat of the High Vekz. Nestled in the valley by Lake Whitespire, this is considered the shining gem of the Vekzian Dominon. Much can be found in this enormous city with anything you could look for on top of being one of the cleanest places I've even been to. The inns and taverns are some of the most well run but don't try to start a fight, they're quick to break it up. 
 
 <img src='https://www.gmbinder.com/images/pp1BGe8.png' style='position:absolute;top:175px;left:58px;width:700px'/>
 
@@ -513,13 +514,13 @@ Description
 
 ### Azeroth
 
-Description
+Azeroth is a city nestled atop the coastal ridge the city is built to descend down the southern face toward Kaplan Bay, the city's main source of commerce.
 
 <img src='https://www.gmbinder.com/images/ia1SayE.png' style='width:320px'/>
 
 ### Dothrak
 
-Description
+This city on the southern bank of Loch Terûvia is a proud city of hunters and sees a bit of traffic with Athenia across the water a short boat ride away.
 
 <img src='https://www.gmbinder.com/images/h6eldfN.png' style='width:320px'/>
 
@@ -528,13 +529,13 @@ Description
 
 ### Faerûn
 
-Description
+This city lies at the base of the coastal ridge in the Valley of the Vekz, sustained by some light mining and lumber processingy.
 
 <img src='https://www.gmbinder.com/images/EVRlc7c.png' style='width:320px'/>
 
 ### Gygaxia
 
-Description
+This city is placed inside the hills at the north of the valley, agriculture from the various farms around is what this town is known for.
 
 <img src='https://www.gmbinder.com/images/jq68ocs.png' style='width:320px'/>
 
@@ -544,13 +545,13 @@ Description
 
 ### Ravenrock
 
-Description
+Ravenrock keep, home of the Ravenrock Conservatory, where socerers in the Dominion are sent at a young age to hone their craft, looks over the river on the coastal ridge for this city.
 
 <img src='https://www.gmbinder.com/images/2ORSRbw.png' style='width:320px'/>
 
 ### Tal'Dorei
 
-Description
+Tal'Dorei is the largest city in the Dominon with a large port that sees high traffic at all hours. The city is also the home of Tal'Dorei Academy where those who are fortunate enough can receive training in their unique skills.
 
 <img src='https://www.gmbinder.com/images/iGxGFKs.png' style='width:320px'/>
 
@@ -559,7 +560,7 @@ Description
 
 ### Waterdeep
 
-Description
+This city at the border of the Eshean and Vekzian nations is a common spot for travelers to stop on through and has become a kind of hub for odd wares.
 
 <img src='https://www.gmbinder.com/images/teNJg4j.jpg' style='width:320px'/>
 
