@@ -581,7 +581,7 @@ Description
 
 <div class='wide'>
 
-## Burg
+## Olympana
 **Population** ??K
 ___
 
@@ -597,14 +597,14 @@ Description
 
 ### Atlanta
 
-Description
+This city is the home of the Temple to Atlanta, a majestic temple on the norther coast adorned with the finest blue banners and stones to decorate the interior that looks out over the water. The people that reside here are devout followers of Atlanta whether they have taken permanent residents in the city or just travelling through for some time on a pilgrimage. Many fishermen retire here after finishing their stories at sea.
 
 <img src='https://www.gmbinder.com/images/qg5T1Xy.png' style='width:320px'/>
 
 
 ### Ceritas
 
-Description
+This city is devoted to the woderful Ceritas Goddess of Justice and Truth, the only court in all of the Holy State is here and is presided over by the High Priest of Ceritas inside the Temple of Ceritas. Those who walk the righteous path typically find their way here either for their pilgrimages or to live out their days in service to Ceritas for aiding them in their journeys.
 
 <img src='https://www.gmbinder.com/images/HsJHRxb.png' style='width:320px'/>
 
@@ -614,14 +614,14 @@ Description
 
 ### Fiero
 
-Description
+This is the city devoted to the Sun God, Fiero, it is also the home of the fabled Everlight Beacon that overlooks the eastern shore and has never gone out. The beacon is considered the preffered altar to offer sacrfices for Fiero as it is the first thing touched by the sun in Charbotia, and the flame was given by Fiero himself according to legend. One of the largest cities in Charbotia, it has a port that sees quite a lot of traffic fromtrade commerce, and those who wish to bask in the Everlight.
 
 <img src='https://www.gmbinder.com/images/RpbHuLD.jpg' style='width:320px'/>
 
 
 ### Markuul
 
-Description
+This desolate town does not attract the attention of the others in the State but the followers of Markuul are diligent making sure they come to make offerings at the Temple. Those who have suffered great loss are known to come here as part of the grieving process.
 
 <img src='https://www.gmbinder.com/images/oVimJ7K.png' style='width:320px'/>
 
@@ -630,13 +630,13 @@ Description
 
 ### Ororou
 
-Description
+This city is the agricultural hub for Chabotia with even retired farmers spending their time usign their gifts to devote to the Goddess of the Skies. There is a modest temple in the city that matches the rest of the area in its simple construction. 
 
 <img src='https://www.gmbinder.com/images/tnVlFYV.png' style='width:320px'/>
 
 ### Rikkus
 
-Description
+The Golden Temple of Rikkus this city houses is the centerpiece to a well kept wonderful city. The city also contains some of the most impressive buldings in all of Charbotia due to those who proseper wanting to put their money into the devlopemnt of the city as a form of tithing to the God.
 
 <img src='https://www.gmbinder.com/images/wHX6NNz.jpg' style='width:320px'/>
 
@@ -644,7 +644,7 @@ Description
 
 ### Verdana
 
-Description
+This city is built using the surrounding terrain as mush as possible with houses built into trees or into hills. Where others have temples as a constuction the Temple of Verdana is but a simple clearing with a beatiful willow tree that blossoms with changing flowers that match the season.
 
 <img src='https://www.gmbinder.com/images/kIq1nt5.jpg' style='width:320px'/>
 
