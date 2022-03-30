@@ -484,8 +484,6 @@ This city is the gate to the Eshean Wood and the path that goes through to Evexu
 
 # Vekzian Dominion
 
-Description
-
 The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual successor chosen by the current High Vekz, whom was chosen by the previous. Those that show affinity for the gifts of the High Vekz are sent to Tal'Dorei to join the Mercer Academy where they learn the rites and rituals related to the High Vekz and their traditions, although only one is chosen they can be chosen at anytime, as the High Vekz will know when their successor is ready. Those that are unchosen are still set up to be the leaders of their communities.
     
 The Veks are a neat and tidy people known to not be seen with nary a hair out of place. Let you in on a secret, they made us put the clothes in the bag so the adventurers always looked presentable. Most of them are kinda stuck up but that's likely due to them finding much outsiders are concerned with trivial as they have almost triple the lifespan of the other races whom all live to 80/100 while the average fey touched creatures found here are known to regularly reach 240 to almost 300.
@@ -510,7 +508,7 @@ Whitspire is home of the famous Castle Whitespire, seat of the High Vekz. Nestle
 
 \pagebreakNum
 
-## Nation Burgs
+## Vekzian Burgs
 
 ### Azeroth
 
@@ -571,7 +569,9 @@ This city at the border of the Eshean and Vekzian nations is a common spot for t
 
 # Holy State of Charbotia
 
-Description
+Each God has chosen a High Priest to represent them outside of Olympana. The de facto leader of Charbotia is the Panthean, whom is chosen from among each of the High Priests. The Panthean stays in The Enclave to serve as a voice of the Gods for the representatives and to break any ties for decisions, while the High Priests lead their respective communities.
+Well the Charbotians are probably the reason the gods haven't smited the rest of the continent with the constant praising of the gods and daily rituals performed at the temples. They are normally a peaceful people but have been known to sometimes use force to impose the Gods will.
+
 
 <img src='https://www.gmbinder.com/images/34b39Ly.png' style='position:absolute;top:250px;left:8px;width:800px' />
 
@@ -585,7 +585,8 @@ Description
 **Population** ??K
 ___
 
-Description
+Olympana is a sprawling work of art with the shining gem as the centerpiece of the city being the High Temple the one temple for all of the Seven Deities to be worshipped under one roof. The port here is traveled by many and sees a large amount of trade and pilgrimage for those who wish to pay a greater respect.
+
 
 <img src='https://www.gmbinder.com/images/KhQhydG.jpg' style='position:absolute;top:250px;left:58px;width:700px'/>
 
