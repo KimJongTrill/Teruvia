@@ -769,7 +769,7 @@ This city is supported by a lively port but otherwise its distance off the road 
 
 ### Sharwah
 
-This city is old but the port serves as the newest addition to the budding metropolis seeing most of the city being recently constructed and the old one left behind with trading open to Alteria.
+This farming city under Arkanan control is old and has traded hand many time between the neighboring nations but the busy port serves as the newest addition to the budding metropolis seeing most of the city being recently constructed and the old one left behind with trading open to Alteria.
 
 <img src='https://www.gmbinder.com/images/nEckE1v.jpg' style='width:320px'/>
 
@@ -789,7 +789,10 @@ This large city is found deep within the desert a bit of distance from the shore
 
 # Alteric Union
 
-Description
+The Alteric Union is run by a council representative of their population. Council represents each primary race of Centaur, Owlin, Firbolgs, and Aarakocra with a fifth seat for tiebreaking for non primary races in the nation. Races decide how to choose their representative, and reps take turns residing in the Enclave.
+    
+The forest dwellers of the lands of Alteria are some of the most resourceful people I've came across in my adventures. The use of the land in conjunction with their cities is breathtaking, they are truly in touch with the nature around them. Most of the citizens here despise conflict despite their zealous neighbors but are ready to defend their land effectively and use it to their advantage.
+
 
 <img src='https://www.gmbinder.com/images/qOFUVBl.jpg' style='position:absolute;top:250px;left:8px;width:800px' />
 
@@ -803,7 +806,8 @@ Description
 **Population** ??K
 ___
 
-Description
+Timberbay is one of the most fascinating city in all the lands I have ever seen with the city built into the trees almost exclusively with very few residing on the ground. The port has seen a crazy boom with the trade opening between Alteria and Arkana. Members of the council stay and meet here when not in the Enclave.
+
 
 <img src='https://www.gmbinder.com/images/PWQxLqA.png' style='position:absolute;top:175px;left:120px;height:825px'/>
 
@@ -811,17 +815,17 @@ Description
 
 \pagebreakNum
 
-## Nation Burgs
+## Alteric Burgs
 
 ### Bronwater
 
-Description
+This large city is the largest port seeing trade coming from all nations and travel as well. The city is built into the hilly ground using the terrain in function.
 
 <img src='https://www.gmbinder.com/images/bvgJ6ky.jpg' style='width:320px'/>
 
 ### Greentree
 
-Description
+This city is another built from nature with some living on the ground and some taking to the trees the burg gets its name.
 
 <img src='https://www.gmbinder.com/images/4sCnyiS.png' style='width:320px'/>
 
@@ -829,13 +833,13 @@ Description
 
 ### Portstown
 
-Description
+The southernmost burg in Alteria is a smaller town but sees much travel in and out of its port with it being a port close to the shores of Eboria.
 
 <img src='https://www.gmbinder.com/images/jVj4hmC.png' style='width:320px'/>
 
 ### Shadehallow
 
-Description
+This densely populated logging burg is under almost complete cover from the trees above with very little light making its way through the dense canopy. The town below is built out of mainly lumber and stone with some being built into the few hilled areas.
 
 <img src='https://www.gmbinder.com/images/75DDN1F.png' style='width:320px'/>
 
@@ -843,13 +847,13 @@ Description
 
 ### Swifthill
 
-Description
+This large city is the agricultural hub for most of the area in addition to the port making it a booming metropolis.
 
 <img src='https://www.gmbinder.com/images/inn1DnT.png' style='width:320px'/>
 
 ### Whitval
 
-Description
+This smaller port has a sizeable trading presence and sees quite a bit of traffic that stops through on the way up the eastern coast, but few end up staying much beyond a night or a storm.
 
 <img src='https://www.gmbinder.com/images/RVmGp2j.png' style='width:320px'/>
 
