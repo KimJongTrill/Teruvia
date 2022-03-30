@@ -25,7 +25,7 @@ ___
 Kol|Eshea|Vekzia|Arkana|Alteria|Ebroria|Charbotia|Modifications|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 Dwarf|Bugbear|Aasimar|Genasi [Fire]|Aarakocra|Grung | *Devout Religious* |Changeling
-Gnome|Dragonborn|Elves|Kenku|Centaur|Centaur|Humans |Custom
+Gnome|Dragonborn|Elves|Kenku|Centaur|Humans||Custom
 Goliath|Hobgoblin|Fairy|Lizardfolk|Firbolg|Genasi [Water]|	|Dhampir
 Halfling|Leonin|Harengon|Loxodon|Genasi [Air]|Locathah| |Hexblood
 Minoutaur|Orcs|Satyrs|Tabaxi|Genasi [Earth]|Triton| |Reborn
