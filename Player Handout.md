@@ -11,7 +11,7 @@
 * **Ability Scores:** Go to *#stat-gen* in the Discord and enter `!rr 6 4d6pl1`, arrange as desired. Re-roll the whole lot if they don't add up to at least 70.
 * **Equipment:** One *Uncommon* Magic Item tied to your backstory, along with your standard starting equipment, open to your ideas for weapon customization for flavor.
 * **Classes.** Any official WOTC 5e content or specified Homebrew. 2 classes max.
-* **Races.** Any listed race and all variants of them. Nation is just a suggestion, but remember how being different might affect your character.
+* **Races.** Any listed race and all their variants/halfs. Nation is just a suggestion, but remember how being different might affect your character.
 
 <div style='margin-top:25px;'> </div>
 
@@ -22,7 +22,7 @@ ___
 
 ### Races and Typical Home Nations
 
-Kol|Eshea|Vekzia|Arkana|Winclandor|Ebroria|Charbotia|Modifications|
+Kol|Eshea|Vekzia|Arkana|Alteria|Ebroria|Charbotia|Modifications|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 Dwarf|Bugbear|Aasimar|Genasi [Fire]|Aarakocra|Humans | *Devout Religious* |Changeling
 Gnome|Dragonborn|Elves|Kenku|Firbolg|Centaur| |Custom
@@ -52,7 +52,7 @@ _____
 ### **Variant Rules Used**
 ___
 - **Multiclassing** [PHB 163] *1 class additional, with RP reason*
-- **Feats** [PHB 165] *ASI alternative, some races give feats*
+- **Feats** [PHB 165] *ASI alternative*
 - **Cleaving** [DMG 272] *Doesn't have to be unharmed*
 - **Firearms** [DMG 267] *See Gunslinger PDF for Firearms*
 - **Downtime** [XGE 123+] *5eTools to see all*
@@ -64,7 +64,8 @@ ___
 * Dungeon Dude's Crits - *normal damage + max damage die*
 * Critical Role's Rapid Quaffing - *BA self-potioning*
 * Gunslinger w/ CR Guns - *see PDF in discord*
-* College of the Maestro - *see PDF discord*
+* College of the Maestro - *see PDF in discord*
+* Blood Hunter, no Mutant - *see PDF in discord*
 * Unarmed Strikes can Smite
 * Shield Master - *BA allowed before attacking*
 
@@ -76,7 +77,6 @@ ___
 Aurora Legacy Content Repo - 
 `https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index` 
 `https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index`
-
 ___
 My Homebrew Aurora repo - 
 `https://raw.githubusercontent.com/KimJongTrill/Aurora-Homebrew/master/KJTCC.index`
