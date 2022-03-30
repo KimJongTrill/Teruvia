@@ -66,11 +66,10 @@ Those deemed worthy during the decennial Adventure's Card Trials are given their
 <div class='wide' style="text-align: left">
 
 
-* Always make sure your reports are up to date.
-* Harm no unarmed person.
-* You are beholden to laws but, not the makers of them.
+* Always make sure your reports are up to date, or risk your status falling into decline.
+* Harm no unarmed person, its a dick move.
 * Complete any accepted job to the best of your ability.
-* Try to keep less than legal activities to a minimum, however sometimes you need to get dirty to do some good.
+* Try to keep less than legal activities to a minimum, however sometimes you need to get dirty to do some "good".
 * Always look out for your party mates, but the best adventurer is one who can still fight.
 * Do nothing to bring defamation to Adventurers.
 
@@ -86,7 +85,7 @@ Those deemed worthy during the decennial Adventure's Card Trials are given their
 
 As we are only able to truly succeed by building off the advancements of those who came before us, we have included field notes from adventurers to help aid in your travels across Térûvia. We have asked your fellow adventurers to give you a guide to the area around you. These notes have been gathered by the adventurers who came before you over the course of their travels in Térûvia.
 
-<div style='margin-top:80px;'> </div>
+<div style='margin-top:40px;'> </div>
 
 ### Special Thanks:
 </div>
@@ -95,7 +94,7 @@ As we are only able to truly succeed by building off the advancements of those w
 
 ___
 - Kjarl Thumbman
-- Wan
+- Wan the One
 - Richard Tuggins
 - Ragnar the Brawny
 - Sir Brakk Gabbaaguulll
@@ -114,6 +113,7 @@ ___
 - Shadowtooth
 - Toro
 - Dariax Zaveon
+- 
 
 
 \columnbreak
@@ -154,12 +154,12 @@ ___
 
 <div class='wide' style="text-align: left">
 
-The Seven Dieties are the source of all this is, was, and could be. The first settlers of these lands were placed here by the Seven Dieties, so we owe all we are and have been to them, and without them we are nothing.  When identifying the Gods in your reports remember to do so respectfully and correctly. Do not misname or misattribute them for it is unbecoming of an adventurer to not know our Gods. Any reports with blasphemous typos are to be considered void.
+The Seven Deities are the source of all this is, was, and could be. The first settlers of these lands were placed here by the Seven Deities, so we owe all we are and have been to them, and without them we are nothing.  When identifying the Gods in your reports remember to do so respectfully and correctly. Do not misname or misattribute them for it is unbecoming of an adventurer to not know our Gods. Any reports with blasphemous typos are to be considered void.
 
 </div>
 
 ## Atlanta 
-#### Goddess of the Sea, Water, Fishing, Moon
+#### Goddess of the Sea, Moon, Fishing 
 
 **Holy Day**: Hallowed Harvest, 100 Fall
 
@@ -176,32 +176,32 @@ Ceritas is an often favored and deeply idolized goddess. Justice, balance, and o
 
 
 ## Markuul 
-#### God of Death, Winter, Decay, Renewal
+#### Goddess of Death, Winter, Decay, Renewal
 
 **Holy Day**: Winter Solstice, 50 Winter
 
-Markuul is a vastly respected and greatly esteemed god. Hatred, death, rebirth and snow are common elements this divine being is associated with and most would regard him as miserable and confident. Often depicted as a tall, slender, and graceful humanoid with feline features. Markuul is usually worshipped through sacrifices and gifts.
+Markuul is a vastly respected and greatly esteemed god. Hatred, death, rebirth and snow are common elements this divine being is associated with and most would regard her as miserable and confident. Often depicted as a tall, slender, and graceful humanoid with feline features. Markuul is usually worshipped through sacrifices and gifts.
 
 ## Ororou 
-#### Goddess of the Skies, Wind, Weather, Lightning, Sailing
+#### Goddess of the Skies, Wind, Weather, Lightning
 
 **Holy Day**: Spring Bre'kk, 100 Spring
 
-Ororou is a widely praised goddess. Often depicted as a dark skinned humanoid woman with ice white hair, she is usually worshiped through offerings and dances that are known to be dedicated to the brining of rainfall. Worshippers are plentiful and tend to come in the form of farmers, sailors, and engineers are often less welcome among followers of this goddess, even when the right oaths and sacrifices cannot be made.
+Ororou is a widely praised goddess. Often depicted as a dark skinned humanoid woman with ice white hair, she is usually worshiped through offerings and dances that are known to be dedicated to the brining of rainfall. Worshippers are plentiful and tend to come in the form of farmers, sailors, and engineers among any others that are drawn to the Goddess.
 
 
 \columnbreak
 
 
 ## Fiero 
-#### God of the Sun, Light, Summer, Fire, Destruction
+#### God of the Sun, Light, Summer, Fire
 
 **Holy Day**: Summer Solstice, 50 Summer
 
 Fiero is a well praised god being that he brings the light every day. Depicted as a man with bright red skin and fiery hair he is known as being spontaneous and reckless. Worshippers are many for this god but healers and scholars are known to be devout followers. Fiero is usually worshipped through burnt offerings and prayer at sunrise.
 
 ## Rikkus 
-#### God of Wealth, Harvest, Crops, Fall
+#### God of Wealth, Harvest, Fall, Luck
 
 **Holy Day**: Fall Solstice, 50 Fall
 
@@ -655,7 +655,8 @@ This city is built using the surrounding terrain as mush as possible with houses
 
 # Arkanan Sultanate
 
-Description
+Head of the government in Arkana is the Sultan from the Rethzaki Family. The first Sultan Jafar Rethzaki was the first leader simply by raising his independent army off the fortune made from the oil and salt mines he happened across as a young man, an imploring his neighbors to push for more. To represent the meaningful interests to the Sultan and the Empire economic titans serve as advisors on the Council to the Sultan.
+The people of Arkana place high value in their economic and social status. The most influential people are the economic titans that call Arkana home and are the leaders of their respective burgs. The rule of the Sultan was started by having buskets of money so it only seems fitting. The sparse settlements throughout these lands are densely populated with most people congregating in the cities.
 
 <img src='https://www.gmbinder.com/images/TCAyokb.png' style='position:absolute;top:250px;left:8px;width:800px' />
 
@@ -669,7 +670,7 @@ Description
 **Population** ??K
 ___
 
-Description
+Rubai is the shining gem of Arkana, home to the Sultan and the Palace and by far the greatest city the nation has. Situated between the oil fields and Exsalted Hills it is an oasis itself situated between the Twin Lakes of Oasis in the desert. The city is a hub for commerce and influence as money seems to drawn here to spend free and business time in this bustling city.
 
 <img src='https://www.gmbinder.com/images/THe01cS.jpeg' style='position:absolute;top:175px;left:50px;height:800px'/>
 
@@ -681,13 +682,13 @@ Description
 
 ### Ashamar
 
-Description
+This port is the northernmost city in Arkana serving as a main hub for goods to come in and out for the oil fields and the settlements surrounding.
 
 <img src='https://www.gmbinder.com/images/TmOkLkQ.png' style='width:320px'/>
 
 ### Babah
 
-Description
+This small town serves as a place for weary travelers to stop through while heading between the settlements on the western half of the Sultanate.
 
 <img src='https://www.gmbinder.com/images/fXQbsRC.png' style='width:320px'/>
 
@@ -697,63 +698,66 @@ Description
 
 ### Besh
 
-Description
+This port is either the beginning or end of the journey those who might sail around the eastern coast meaning many things and people tend to pass through to move goods or supplies to other settlements.
 
 <img src='https://www.gmbinder.com/images/ei6IAOF.jpg' style='width:320px'/>
 
 ### Beshrani
 
-Description
+This city is situated close to the Exsalted Hills and serves as the main path of export for the minerals found in them hills. While this town is small it is well amenitied seeing many people come through due to the hills proximity.
 
 <img src='https://www.gmbinder.com/images/is74RQy.png' style='width:320px'/>
 
 
 \pagebreakNum
 
+### Ghiz
 
-### Kefarjah
-
-Description
+The proximity of this port to Tjarkogen sees many visitors both for travel and trade with it being a popular destination for vacation with the sandy shores and impressive buildings.
 
 <img src='https://www.gmbinder.com/images/rork9ap.png' style='width:320px'/>
 
+### Kefarjah
+
+The closest main port to Rubai means this smaller burg is well traversed by port and road seeing any external shipments come through the city.
+
+<img src='https://www.gmbinder.com/images/rork9ap.png' style='width:320px'/>
+
+\pagebreakNum
+
 ### Khaybar
 
-Description
+Slightly larger than the city up the road it shares many similarities with Beshrani seeing a few more people putting down roots and less revolved around the commerce.
 
 <img src='https://www.gmbinder.com/images/sizmZtA.png' style='width:320px'/>
 
 
-\columnbreak
-
-
 ### Khazan
 
-Description
+This small city is situated near a river that drives the limited farming done in the desert town, still it is one of the top agricultural producers.
 
 <img src='https://www.gmbinder.com/images/dQoMbgi.png' style='width:320px'/>
 
+\columnbreak
+
 ### Makh
 
-Description
+This city is supported by the oil field workers that find their way here on the off time to spend their gold, so there is no shortage of fun to be had or trouble to stir up.
 
 <img src='https://www.gmbinder.com/images/yq8YpJz.png' style='width:320px'/>
 
 
-\pagebreakNum
-
-
 ### Qaka
 
-Description
+This city segregated from most others sees few vistors in or out and is a quiet place that sees fishing as on the main points of interes due to the proximity to The Crystal Strait.
 
 <img src='https://www.gmbinder.com/images/ElfVHxU.png' style='width:320px'/>
 
-
+\pagebreakNum
 
 ### Sphinxos
 
-Description
+This city is supported by a lively port but otherwise its distance off the road sees very little happen in this town.
 
 <img src='https://www.gmbinder.com/images/BvkpWS4.png' style='width:320px'/>
 
@@ -762,7 +766,7 @@ Description
 
 ### Sharwah
 
-Description
+This city is old but the port serves as the newest addition to the budding metropolis seeing most of the city being recently constructed and the old one left behind with trading open to Alteria.
 
 <img src='https://www.gmbinder.com/images/nEckE1v.jpg' style='width:320px'/>
 
@@ -771,7 +775,7 @@ Description
 
 ### Varrakesh
 
-Description
+This large city is found deep within the desert a bit of distance from the shore built on the fortunes from the oil found in the fields.
 
 <img src='https://www.gmbinder.com/images/o9eqmAD.png' style='width:320px'/>
 
