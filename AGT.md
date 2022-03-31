@@ -14,20 +14,20 @@
 <div class='wide' style="text-align: left">
 
 # Térûvia, Our Home
-Térûvia is a world within the material plane. Any knowledge of society in Térûvia from before the "Calamity" are nonexistent.
+Any knowledge of society in Térûvia from before the "Calamity" are nonexistent.
 
-In the early days those who remained after the Cataclysm gathered together to form primitive civilizations, claiming space, and entering conflicts for centuries. However all of that was changed when magic awakened in 695, a few select people were able to manipulate it, and did with it a variety of things from helping their communities, to using it for financial gain, and some using it to concentrate power. 
+In the early days those who were there at the beginning gathered together to form primitive civilizations, claiming space, and entering conflicts for centuries. However all of that was changed when magic awakened in 695, a few select people were able to manipulate it, and did with it a variety of things from helping their communities, to using it for financial gain, with some using it to concentrate power and enact their will. 
 
 On the Mainland there were many initial warring factions but eventually united under three mighty nations, the Kolians of the mountains, the Eshean of the plains, and the Vekzs of the southern shore. These three factions would war since the earliest history and for over 500 years. At the beginning of the dawn of magic each nation was embroiled in a magical arms race as began to fight with magic and all sides saw casualties increase exponentially in what was known as Arcanageddon, realizing this was no way to grow and thrive, an armistice between the nations was struck in 875. The rulers of the 3 nations met and divided up the main land in a way that everyone was content with; to give the Vekzs the fertile valley, the Kols the bountiful mines in the mountains, and the Esheans the dense forests and bountiful plains. The nations also dedicated the Northern Ridge to the Gods, declaring it Charbotia, a nation independent, and a recognized Holy Land for any follower to inhabit. The Northern Ridge is some of the most breathtaking landscape there is with the forests and mountains leading to a beautiful coast, all of it dotted with temples to the various Gods that make up Térûvia's Pantheon. This area is one where you can find any and every one as the only requirement to be a citizen is to worship.  Peace has been had on the mainland for near 300 years, but across the Térûvian Sea it has not been the case.
 
-While this happened on the mainland two other civilizations grew into their own places and struggled to coexist on the Eastern Ridge. The Arkhans in the North started as a few loosely connected settlements but were soon unified under their Sultan Jafar, who gained their riches from the salt fields on the Western coast and the oil fields in the desert which he used to raise an army. The Wincladans are a union of tribes that lived in the dense dangerous forests and jungles in the South. The Arkhans and the Wincladans have fought in the past for control of the Plains of Ashanbi, the most fertile land in all of the Eastern Ridge. Initially they used magic in their wars with no sign of stopping but were swayed into observing the armistice in 957, when the three nations of the mainland applied pressure with their unified armies. While in relative peace the tensions are as always high between the two nations on the Eastern Ridge.
+While this happened on the mainland two other civilizations grew into their own places and struggled to coexist on the Eastern Ridge. The Arkhans in the North started as a few loosely connected settlements but were soon unified under their Sultan Jafar, who gained their riches from the salt fields on the Western coast and the oil fields in the desert which he used to raise an army. The Alterians are a union of tribes that lived in the dense dangerous forests and jungles in the South. The Arkhans and the Alterians have fought in the past for control of the plains, the most fertile land in all of the Eastern Ridge. Initially they used magic in their wars with no sign of stopping but were swayed into observing the armistice in 993, when the three nations of the mainland applied pressure with their unified armies. While in relative peace the tensions are as always high between the two nations on the Eastern Ridge.
 
 On the Southern Ridge you will find the lands of Eboria, a melting pot formed by the collection of castoff that didn't fit into Térûvian Society on the mainland, or didn't enjoy the tension on the Eastern Ridge. The Southern Ridge has a wonderful coast that sharply raises to the peaks of the mountains there. Here you will find just about anyone who doesn’t enjoy the cultures around the rest of Térûvia. It is the newest nation to join the armistice.
 
 
 In 1000, to celebrate the dawn of a new time and millennia, the Enclave was declared a true neutral ground where each of the nations observing the armistice could send their best and brightest to grow and learn among the different cultures. Inside the city there is a keep where each of the nations has sent a representative to negotiate on their nations behalf, for any matters that need to be handled. The city also houses the Enclave Academy where the brightest minds teach the future scholars of tomorrow. The greatest market in all the land with the finest craftmanship is found at the Bazaar. There is also the Coliseum inside where the nations pay tribute to their warring past by sending champions to fight for their nation. With the Enclave formed the nations sought to protect their lands from growing threats in the wild, and began the Adventurer's Program, a certification and support system to ensure the lands are protected.
 
-It is now Fall 1, 1069 and you have answered the call, coming from your little corner of Térûvia to come to the Enclave for the decennial issuing of new Adventurers Cards in the hopes of joining the 1070 class of new adventurers. To gain your adventurer card you must prove your worth by assembling a team and completing the Adventurer Test. You will choose what to display to prove your adventuring aptitude, for an adventurer need not be the best at EVERY thing but instead, be the best at THEIR thing.
+It is now Fall 1, 1069 and you have answered the call, coming from your little corner of Térûvia to come to the Enclave for the decennial issuing of new Adventurers Cards in the hopes of joining the 1070 class of new adventurers. To gain your adventurer card you must prove your worth by completing the Adventurer Test. You will choose what to display to prove your adventuring aptitude, for an adventurer need not be the best at EVERY thing but instead, be the best at THEIR thing.
 
 If you pass the Adventurer Test then you may go forth and reap all the rewards that come with being a Adventurer, along with all of the dangers that may bring. Be careful out there as you help keep the lands safe from those who wish evil to be done to the citizens of our lands.
 
@@ -43,16 +43,17 @@ If you pass the Adventurer Test then you may go forth and reap all the rewards t
 
 <div class='wide' style="text-align: left">
 
-Those deemed worthy during the decennial Adventure's Card Trials are given their card and sent forth to aid in helping those around Térûvia. The only requirements are, regular reports must be sent to the Enclave detailing your deeds, and you must always honor the Adventurer's Code. In return you receive rations and basic ammunition, along with board at any of the Adventurer's Card accepting establishments you might find in the burgs across Térûvia.
+Those deemed worthy during the decennial Adventure's Program Trials are given their card and sent forth to aid in helping those around Térûvia. The only requirements are, regular reports must be sent to the Enclave detailing your deeds, and you must always honor the Adventurer's Code. In return you receive rations and basic ammunition, along with board at any of the Adventurer's Card accepting establishments you might find in the burgs across Térûvia. Those who do not meet these requirements or are found to be falsifying reports will have their cards put on hold.
 
 
 #### Upon certification you will receive:
 
 * Adventurer's Card
-* Clothes of Mending
-* A Bag of Holding 
-* Coin of Delving
+* Clothes of Mending Uniform
+* Handy Haversack Backpack
+* 3 Coins of Delving
 * Jug of Alchemy [Water]
+
 
 
 </div>
@@ -71,7 +72,7 @@ Those deemed worthy during the decennial Adventure's Card Trials are given their
 * Complete any accepted job to the best of your ability.
 * Try to keep less than legal activities to a minimum, however sometimes you need to get dirty to do some "good".
 * Always look out for your party mates, but the best adventurer is one who can still fight.
-* Do nothing to bring defamation to Adventurers.
+* Do nothing to bring severe defamation to Adventurers.
 
 
 </div>
@@ -864,7 +865,7 @@ This smaller port has a sizeable trading presence and sees quite a bit of traffi
 
 # Ebrorian Republic
 
-This government has three branches, Executive, Judicial, and Legislative. There is one elected Executive every 5 years 4 terms max. High Judge in each burg elected in 3 year cycles must be age of between 30 and 50, serve as the High Court making up the Judicial. The Legislative branch consists of 2 reps from each of the burgs and capitol are elected for Tribunal Council where propositions are argued and enacted. Simple.
+This government has three branches, Executive, Judicial, and Legislative. There is one elected Executive every 5 years 4 terms max. High Judge in each burg elected in 3 year cycles must be age of between 30 and 50, serve as the High Court making up the Judicial. The Legislative branch consists of 2 reps from each of the burgs and capitol are elected for Tribunal Council where propositions are argued and enacted. Local leaders, Barons, are elected every year by popular vote. Simple.
     
 Everyone in Ebroria is undoubtedly their own person and that's what drew them all together. While strong individualists they are very protective over their Nation. Ebroria is built upon everyone being heard so it is not uncommon for the Executive to field questions from the people in town halls or even ask for their opinions on decisions when they have a tough decision.
 
@@ -892,14 +893,14 @@ The city of Spirepeak is built into the side of Spirepeak Summit with Spirepeak 
 
 ### Amburnpass
 
-Description
+This large city is nestled into the northern coast of Ebroria and boasts a large port that sees many merchants and travelers alike pass through and trade wares and stories. Supported by agriculture and the port this city is a bustling center of commerce.
 
 <img src='https://www.gmbinder.com/images/ciFB55a.jpg' style='width:320px'/>
 
 
 ### Bearguard
 
-Description
+This massive city has quite possibly the best port in all of the lands and no shortage of things to do, and as such work to be found.
 
 <img src='https://www.gmbinder.com/images/t9mHinL.jpg' style='width:320px'/>
 
@@ -909,14 +910,14 @@ Description
 
 ### Boneshake
 
-Description
+This town has an economy supported by farming and hunting along with the tourism the area brings with the wonderful beaches around.
 
 <img src='https://www.gmbinder.com/images/KGa0lq1.png' style='width:320px'/>
 
 
 ### Kilstrand
 
-Description
+This small port centric town has a some what busy port that mainly sees fishers rather than merchants come through.
 
 <img src='https://www.gmbinder.com/images/HEdounq.png' style='width:320px'/>
 
@@ -926,7 +927,7 @@ Description
 
 ### Swanhold
 
-Description
+This logging town boasts a robust port and hearty people, the swans are quite beautiful in the harbor at sunset.
 
 <img src='https://www.gmbinder.com/images/pWqJ8gW.png' style='width:320px'/>
 
