@@ -584,7 +584,7 @@ Well the Charbotians are probably the reason the gods haven't smited the rest of
 <div class='wide'>
 
 ## Olympana
-**Population** ??K
+**Population** 46K
 ___
 
 Olympana is a sprawling work of art with the shining gem as the centerpiece of the city being the High Temple the one temple for all of the Seven Deities to be worshipped under one roof. The port here is traveled by many and sees a large amount of trade and pilgrimage for those who wish to pay a greater respect.
@@ -672,7 +672,7 @@ The people of Arkana place high value in their economic and social status. The m
 <div class='wide'>
 
 ## Rubai
-**Population** ??K
+**Population** 18.5K
 ___
 
 Rubai is the shining gem of Arkana, home to the Sultan and the Palace and by far the greatest city the nation has. Situated between the oil fields and Exsalted Hills it is an oasis itself situated between the Twin Lakes of Oasis in the desert. The city is a hub for commerce and influence as money seems to drawn here to spend free and business time in this bustling city.
@@ -810,7 +810,7 @@ The forest dwellers of the lands of Alteria are some of the most resourceful peo
 <div class='wide'>
 
 ## Timberbay
-**Population** ??K
+**Population** 7.5K
 ___
 
 Timberbay is one of the most fascinating city in all the lands I have ever seen with the city built into the trees almost exclusively with very few residing on the ground. The port has seen a crazy boom with the trade opening between Alteria and Arkana. Members of the council stay and meet here when not in the Enclave.
@@ -884,7 +884,7 @@ Everyone in Ebroria is undoubtedly their own person and that's what drew them al
 <div class='wide'>
 
 ## Spirepeak
-**Population** ??K
+**Population** 12.5K
 ___
 
 The city of Spirepeak is built into the side of Spirepeak Summit with Spirepeak Keep being the gem of this city in the clouds. The Executive has a place here in the keep but is mostly traveling back to the Enclave shortly after handling business ensuring the interests of the people are represented. The high court meets in the keep as well for any vital cases once a season. Otherwise this city is quite populated despite the elevation and has all the niceties of a large city anywhere else.
