@@ -864,7 +864,9 @@ This smaller port has a sizeable trading presence and sees quite a bit of traffi
 
 # Ebrorian Republic
 
-Description
+This government has three branches, Executive, Judicial, and Legislative. There is one elected Executive every 5 years 4 terms max. High Judge in each burg elected in 3 year cycles must be age of between 30 and 50, serve as the High Court making up the Judicial. The Legislative branch consists of 2 reps from each of the burgs and capitol are elected for Tribunal Council where propositions are argued and enacted. Simple.
+    
+Everyone in Ebroria is undoubtedly their own person and that's what drew them all together. While strong individualists they are very protective over their Nation. Ebroria is built upon everyone being heard so it is not uncommon for the Executive to field questions from the people in town halls or even ask for their opinions on decisions when they have a tough decision.
 
 <img src='https://www.gmbinder.com/images/weNhVSV.png' style='position:absolute;top:250px;left:10px;width:800px' />
 
@@ -878,7 +880,7 @@ Description
 **Population** ??K
 ___
 
-Description
+The city of Spirepeak is built into the side of Spirepeak Summit with Spirepeak Keep being the gem of this city in the clouds. The Executive has a place here in the keep but is mostly traveling back to the Enclave shortly after handling business ensuring the interests of the people are represented. The high court meets in the keep as well for any vital cases once a season. Otherwise this city is quite populated despite the elevation and has all the niceties of a large city anywhere else.
 
 <img src='https://www.gmbinder.com/images/50gJTRY.jpg' style='position:absolute;top:175px;left:130px;height:800px'/>
 
