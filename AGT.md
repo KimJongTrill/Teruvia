@@ -4,6 +4,7 @@
     .phb#p1:after {display:none;}
     .phb:after {content: '';}
     .phb#p40:after {display:none;}
+    .phb#p41:after {display:none;}
     
 </style>
 
@@ -213,7 +214,7 @@ Rikkus is the god of good fortune and finds praise whenever those need to find l
 
 **Holy Day**: Spring Solstice, 50 Spring
 
-Verdana is the goddess of the earth and responsible for all of the growth so her followers sprout up everywhere. She is depicted as a tall slender woman with long red hair, fair skin, and a fan of leafy fashion. Worshippers are plentiful and tend to come in the form of naturalists, shepherds and outsiders.
+Verdana is the goddess of the earth and resposible for all of the growth so her followers sprout up everywhere. She is depicted as a tall slender woman with long red hair, fair skin, and a fan of leafly fashion. Worshippers are plentiful and tend to come in the form of naturalists, shepherds and outsiders.
 
 
 \pagebreakNum
@@ -348,7 +349,7 @@ Three Royal Families recognized the Ek'Sha Orc bloodline, Fus'Roh Dragonborn blo
 **Population** 14.5K
 ___
 
-Romana, the capital of the Eshean Empire, is built around a keep surrounded by colonnades and public buildings. It functions as a market place, political meeting point and social center. The public buildings surrounding include the main temple, the amphitheater, the law courts, and the main public baths of the city. The city also contains a coliseum a while outside the city walls where champions of Eshea fight to prove their strength. There are also daily congregations of philosophers and those who wish to glean information at the amphitheater. With the road running through the center of town plenty of people pass through here and many adventures can be had in a large city like this.
+Romana, the capital of the Eshean Empire, is built around a keep surrounded by colonnades and public buildings. It functions as a market place, political meeting point and social center. The public buildings surrounding include the main temple, the amphitheatre, the law courts, and the main public baths of the city. The city also contains a coliseum a while outside the city walls where champions of Eshea fight to prove their strength. There are also daily congregations of philosophers and those who wish to glean information at the amphitheatre. With the road running through the center of town plenty of people pass through here and many adventures can be had in a large city like this.
 
 
 <img src='https://www.gmbinder.com/images/sTDsIBI.png' style='position:absolute;top:200px;left:65px;height:750px'/>
@@ -433,7 +434,7 @@ The last stop for those traveling the road to Romana from the Enclave this city 
 
 
 ### Ptolem
-Just off the main stretch a couple hours this secluded town is quiet and sees travelers only really if they want to sleep inside rather than on the road.
+Just off the main stretch a couple hours this secluded town is quiet and sees travellers only really if they want to sleep inside rather than on the road.
 
 <img src='https://www.gmbinder.com/images/6NEIuLJ.png' style='width:320px'/>
 
@@ -487,7 +488,7 @@ This city is the gate to the Eshean Wood and the path that goes through to Evexu
 
 The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual successor chosen by the current High Vekz, whom was chosen by the previous. Those that show affinity for the gifts of the High Vekz are sent to Tal'Dorei to join the Mercer Academy where they learn the rites and rituals related to the High Vekz and their traditions, although only one is chosen they can be chosen at anytime, as the High Vekz will know when their successor is ready. Those that are unchosen are still set up to be the leaders of their communities.
     
-The Veks are a neat and tidy people known to not be seen with nary a hair out of place. Let you in on a secret, they made us put the clothes in the bag so the adventurers always looked presentable. Most of them are kind of stuck up but that's likely due to them finding much outsiders are concerned with trivial as they have almost triple the lifespan of the other races whom all live to 80/100 while the average fey touched creatures found here are known to regularly reach 240 to almost 300.
+The Veks are a neat and tidy people known to not be seen with nary a hair out of place. Let you in on a secret, they made us put the clothes in the bag so the adventurers always looked presentable. Most of them are kinda stuck up but that's likely due to them finding much outsiders are concerned with trivial as they have almost triple the lifespan of the other races whom all live to 80/100 while the average fey touched creatures found here are known to regularly reach 240 to almost 300.
 
 <img src='https://www.gmbinder.com/images/El3eL3q.png' style='position:absolute;top:350px;left:8px;width:800px' />
 
@@ -501,7 +502,7 @@ The Veks are a neat and tidy people known to not be seen with nary a hair out of
 **Population** 21.5K
 ___
 
-Whitespire is home of the famous Castle Whitespire, seat of the High Vekz. Nestled in the valley by Lake Whitespire, this is considered the shining gem of the Vekzian Dominion. Much can be found in this enormous city with anything you could look for on top of being one of the cleanest places I've even been to. The inns and taverns are some of the most well run but don't try to start a fight, they're quick to break it up. 
+Whitspire is home of the famous Castle Whitespire, seat of the High Vekz. Nestled in the valley by Lake Whitespire, this is considered the shining gem of the Vekzian Dominon. Much can be found in this enormous city with anything you could look for on top of being one of the cleanest places I've even been to. The inns and taverns are some of the most well run but don't try to start a fight, they're quick to break it up. 
 
 <img src='https://www.gmbinder.com/images/pp1BGe8.png' style='position:absolute;top:175px;left:58px;width:700px'/>
 
@@ -519,7 +520,7 @@ Azeroth is a city nestled atop the coastal ridge the city is built to descend do
 
 ### Dothrak
 
-This city on the southern bank of Loch Térûvia is a proud city of hunters and sees a bit of traffic with Athenia across the water a short boat ride away.
+This city on the southern bank of Loch Terûvia is a proud city of hunters and sees a bit of traffic with Athenia across the water a short boat ride away.
 
 <img src='https://www.gmbinder.com/images/h6eldfN.png' style='width:320px'/>
 
@@ -528,7 +529,7 @@ This city on the southern bank of Loch Térûvia is a proud city of hunters and 
 
 ### Faerûn
 
-This city lies at the base of the coastal ridge in the Valley of the Vekz, sustained by some light mining and lumber processing.
+This city lies at the base of the coastal ridge in the Valley of the Vekz, sustained by some light mining and lumber processingy.
 
 <img src='https://www.gmbinder.com/images/EVRlc7c.png' style='width:320px'/>
 
@@ -544,13 +545,13 @@ This city is placed inside the hills at the north of the valley, agriculture fro
 
 ### Ravenrock
 
-Ravenrock keep, home of the Ravenrock Conservatory, where sorcerers in the Dominion are sent at a young age to hone their craft, looks over the river on the coastal ridge for this city.
+Ravenrock keep, home of the Ravenrock Conservatory, where socerers in the Dominion are sent at a young age to hone their craft, looks over the river on the coastal ridge for this city.
 
 <img src='https://www.gmbinder.com/images/2ORSRbw.png' style='width:320px'/>
 
 ### Tal'Dorei
 
-Tal'Dorei is the largest city in the Dominion with a large port that sees high traffic at all hours. The city is also the home of Tal'Dorei Academy where those who are fortunate enough can receive training in their unique skills.
+Tal'Dorei is the largest city in the Dominon with a large port that sees high traffic at all hours. The city is also the home of Tal'Dorei Academy where those who are fortunate enough can receive training in their unique skills.
 
 <img src='https://www.gmbinder.com/images/iGxGFKs.png' style='width:320px'/>
 
@@ -606,7 +607,7 @@ This city is the home of the Temple to Atlanta, a majestic temple on the norther
 
 ### Ceritas
 
-This city is devoted to the wonderful Ceritas Goddess of Justice and Truth, the only court in all of the Holy State is here and is presided over by the High Priest of Ceritas inside the Temple of Ceritas. Those who walk the righteous path typically find their way here either for their pilgrimages or to live out their days in service to Ceritas for aiding them in their journeys.
+This city is devoted to the woderful Ceritas Goddess of Justice and Truth, the only court in all of the Holy State is here and is presided over by the High Priest of Ceritas inside the Temple of Ceritas. Those who walk the righteous path typically find their way here either for their pilgrimages or to live out their days in service to Ceritas for aiding them in their journeys.
 
 <img src='https://www.gmbinder.com/images/HsJHRxb.png' style='height:300px'/>
 
@@ -616,14 +617,14 @@ This city is devoted to the wonderful Ceritas Goddess of Justice and Truth, the 
 
 ### Fiero
 
-This is the city devoted to the Sun God, Fiero, it is also the home of the fabled Everlight Beacon that overlooks the eastern shore and has never gone out. The beacon is considered the preferred altar to offer sacrifices for Fiero as it is the first thing touched by the sun in Charbotia, and the flame was given by Fiero himself according to legend. One of the largest cities in Charbotia, it has a port that sees quite a lot of traffic from trade commerce, and those who wish to bask in the Everlight.
+This is the city devoted to the Sun God, Fiero, it is also the home of the fabled Everlight Beacon that overlooks the eastern shore and has never gone out. The beacon is considered the preffered altar to offer sacrfices for Fiero as it is the first thing touched by the sun in Charbotia, and the flame was given by Fiero himself according to legend. One of the largest cities in Charbotia, it has a port that sees quite a lot of traffic fromtrade commerce, and those who wish to bask in the Everlight.
 
 <img src='https://www.gmbinder.com/images/RpbHuLD.jpg' style='height:300px'/>
 
 
 ### Haymil
 
-This city is the agricultural hub for Charbotia and is also the only place gambling is legal within Charbotia. There is a temple in the city that attracts many people seeking changes to their fortunes.. 
+This city is the agricultural hub for Chabotia and is also the only place gambling is legal within Charbotia. There is a temple in the city that attracts many people seeking changes to their fortunes.. 
 
 <img src='https://www.gmbinder.com/images/1Y6eacF.png' style='width:320px'/>
 
@@ -640,7 +641,7 @@ This desolate town does not attract the attention of the others in the State but
 
 ### Rikkus
 
-The Golden Temple of Rikkus this city houses is the centerpiece to a well kept wonderful city. The city also contains some of the most impressive buildings in all of Charbotia due to those who prosper wanting to put their money into the development of the city as a form of tithing to the God.
+The Golden Temple of Rikkus this city houses is the centerpiece to a well kept wonderful city. The city also contains some of the most impressive buldings in all of Charbotia due to those who proseper wanting to put their money into the devlopemnt of the city as a form of tithing to the God.
 
 <img src='https://www.gmbinder.com/images/wHX6NNz.jpg' style='width:320px'/>
 
@@ -648,7 +649,7 @@ The Golden Temple of Rikkus this city houses is the centerpiece to a well kept w
 
 ### Verdana
 
-This city is built using the surrounding terrain as mush as possible with houses built into trees or into hills. Where others have temples as a construction the Temple of Verdana is but a simple clearing with a beautiful willow tree that blossoms with changing flowers that match the season.
+This city is built using the surrounding terrain as mush as possible with houses built into trees or into hills. Where others have temples as a constuction the Temple of Verdana is but a simple clearing with a beatiful willow tree that blossoms with changing flowers that match the season.
 
 <img src='https://www.gmbinder.com/images/kIq1nt5.jpg' style='width:320px'/>
 
@@ -660,7 +661,7 @@ This city is built using the surrounding terrain as mush as possible with houses
 # Arkanan Sultanate
 
 Head of the government in Arkana is the Sultan from the Rethzaki Family. The first Sultan Jafar Rethzaki was the first leader simply by raising his independent army off the fortune made from the oil and salt mines he happened across as a young man, an imploring his neighbors to push for more. To represent the meaningful interests to the Sultan and the Empire economic titans serve as advisors on the Council to the Sultan.
-The people of Arkana place high value in their economic and social status. The most influential people are the economic titans that call Arkana home and are the leaders of their respective burgs. The rule of the Sultan was started by having buckets of money so it only seems fitting. The sparse settlements throughout these lands are densely populated with most people congregating in the cities.
+The people of Arkana place high value in their economic and social status. The most influential people are the economic titans that call Arkana home and are the leaders of their respective burgs. The rule of the Sultan was started by having buskets of money so it only seems fitting. The sparse settlements throughout these lands are densely populated with most people congregating in the cities.
 
 <img src='https://www.gmbinder.com/images/TCAyokb.png' style='position:absolute;top:250px;left:8px;width:800px' />
 
@@ -755,7 +756,7 @@ This city is supported by the oil field workers that find their way here on the 
 
 ### Qaka
 
-This city segregated from most others sees few visitors in or out and is a quiet place that sees fishing as on the main points of interest due to the proximity to The Crystal Strait.
+This city segregated from most others sees few vistors in or out and is a quiet place that sees fishing as on the main points of interes due to the proximity to The Crystal Strait.
 
 <img src='https://www.gmbinder.com/images/ElfVHxU.png' style='width:320px'/>
 
@@ -975,9 +976,9 @@ Varrakesh|Arkana|13852
 Atlanta|Charbotia|16560
 Ceritas|Charbotia|2130
 Fiero|Charbotia|36708
-Haymil|Charbotia|9530
 Markuul|Charbotia|2940
 Olympana|Charbotia|45986
+Ororou|Charbotia|9530
 Rikkus|Charbotia|6020
 Verdana|Charbotia|23512
 Amburnpass|Ebror|28966
@@ -989,7 +990,6 @@ Swanhold|Ebror|2974
 Agronia|Eshea|26718
 Athenia|Eshea|2422
 Corga|Eshea|5578
-
 
 Burg|Nation|Population
 |:--|:--|--:|
@@ -1022,20 +1022,28 @@ Rek'Avik|Kol|2842
 Starjarl|Kol|8608
 Thorian Dale|Kol|14658
 Tjarkogen|Kol|23950
-The Enclave|Protectorate|78598
-Azeroth|Vekz|3264
-Dothrak|Vekz|2416
-Faerûn|Vekz|3640
-Gygaxia|Vekz|2294
-Ravenrock|Vekz|2296
-Tal'Dorei|Vekz|36336
-Waterdeep|Vekz|6224
-Whitespire|Vekz|21684
-
+The Enclave|Protectorate|15548
+Azeroth|Vekzia|3264
+Dothrak|Vekzia|2416
+Faerûn|Vekzia|3640
+Gygaxia|Vekzia|2294
+Ravenrock|Vekzia|2296
+Tal'Dorei|Vekzia|36336
+Waterdeep|Vekzia|6224
+Whitespire|Vekzia|21684
 
 
 
 \pagebreakNum
+
+
+<div class='wide' style="text-align: center">
+
+<img src='https://www.gmbinder.com/images/Yt8iN6Z.jpg' style='position:absolute;top:100px;left:0px;width:100%;'/>
+
+</div>
+
+\pagebreak
 
 
 <div class='wide' style="text-align: center">
