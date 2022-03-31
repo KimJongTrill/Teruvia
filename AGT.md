@@ -975,9 +975,9 @@ Varrakesh|Arkana|13852
 Atlanta|Charbotia|16560
 Ceritas|Charbotia|2130
 Fiero|Charbotia|36708
+Haymil|Charbotia|9530
 Markuul|Charbotia|2940
 Olympana|Charbotia|45986
-Ororou|Charbotia|9530
 Rikkus|Charbotia|6020
 Verdana|Charbotia|23512
 Amburnpass|Ebror|28966
@@ -989,6 +989,7 @@ Swanhold|Ebror|2974
 Agronia|Eshea|26718
 Athenia|Eshea|2422
 Corga|Eshea|5578
+
 
 Burg|Nation|Population
 |:--|:--|--:|
@@ -1021,15 +1022,16 @@ Rek'Avik|Kol|2842
 Starjarl|Kol|8608
 Thorian Dale|Kol|14658
 Tjarkogen|Kol|23950
-The Enclave|Protectorate|15548
-Azeroth|Vekzia|3264
-Dothrak|Vekzia|2416
-Faerûn|Vekzia|3640
-Gygaxia|Vekzia|2294
-Ravenrock|Vekzia|2296
-Tal'Dorei|Vekzia|36336
-Waterdeep|Vekzia|6224
-Whitespire|Vekzia|21684
+The Enclave|Protectorate|78598
+Azeroth|Vekz|3264
+Dothrak|Vekz|2416
+FaerÃ»n|Vekz|3640
+Gygaxia|Vekz|2294
+Ravenrock|Vekz|2296
+Tal'Dorei|Vekz|36336
+Waterdeep|Vekz|6224
+Whitespire|Vekz|21684
+
 
 
 
