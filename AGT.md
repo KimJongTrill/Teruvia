@@ -1025,7 +1025,7 @@ Tjarkogen|Kol|23950
 The Enclave|Protectorate|78598
 Azeroth|Vekz|3264
 Dothrak|Vekz|2416
-FaerÃ»n|Vekz|3640
+Faerûn|Vekz|3640
 Gygaxia|Vekz|2294
 Ravenrock|Vekz|2296
 Tal'Dorei|Vekz|36336
