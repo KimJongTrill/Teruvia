@@ -50,7 +50,7 @@ Those deemed worthy during the decennial Adventure's Program Trials are given th
 
 * Adventurer's Card
 * Clothes of Mending Uniform
-* Handy Haversack Backpack
+* Handy Haversack
 * 3 Coins of Delving
 * Jug of Alchemy [Water]
 
@@ -95,12 +95,12 @@ As we are only able to truly succeed by building off the advancements of those w
 
 ___
 - Kjarl Thumbman
-- Wan the One
+- Wan the 1
 - Richard Tuggins
 - Ragnar the Brawny
 - Sir Brakk Gabbaaguulll
 - Ana May
-- Weiabu Stoo
+- Umeric Emberwood
 - Velynne Harpell
 - Ragnar the Brainy
 - Thark
@@ -114,29 +114,30 @@ ___
 - Shadowtooth
 - Toro
 - Dariax Zaveon
-- 
+- Bardi the Bard
 
 
 \columnbreak
 
 ___
+- Varis Emberwood
 - Axana VonWhoston
-- Umeric Emberwood
-- Bonesaw
+- Bonesaw the Savage
 - Eyevana Ceyurpeetr
 - Edmund, the Unsettled
 - Kurtis Kenkuu
 - Barry "The Cleaver" Beaver
-- Avarice
+- Weiabu Stoo
+- Lil Jimmy
 - Stan'Li Ste'Mer
 - Chutney Pock'Opea
-- Janth
+- Astrix Janth
 - Oric Stormdrang
 - Ragnar the Brave
 - Jingle McKringle
 - Dildo Baggins
 - Drakk Softstone Thulle
-- Leonzo
+- Leonzo the One Eyed Wizard
 - Jack the Runeblade
 - Futt Buckerson
 - One Eyed Willy
@@ -160,12 +161,11 @@ The Seven Deities are the source of all this is, was, and could be. The first se
 </div>
 
 ## Atlanta 
-#### Goddess of the Sea, Moon, Fishing 
+#### Goddess of the Wind, Lightning, Sea
 
-**Holy Day**: Hallowed Harvest, 100 Fall
+**Holy Day**: Spring Bre'kk, 100 Spring
 
-Atlanta is a deeply respected and hugely adored goddess. Most would describe her as sweet and capable. She is usually worshipped through alms and chants. Worshippers are plentiful and tend to come in the form of fishers and sailors, but if in need all others are welcome to seek the guidance of this goddess.
-
+Atlanta is a widely praised goddess. Often depicted as a dark skinned humanoid woman with ice white hair, she is usually worshiped through offerings and dances that are known to be dedicated to the brining of rainfall. Worshippers are plentiful and tend to come in the form of farmers, sailors, fishers, and engineers among any others that are drawn to the Goddess.
 
 
 ## Ceritas 
@@ -175,25 +175,6 @@ Atlanta is a deeply respected and hugely adored goddess. Most would describe her
 
 Ceritas is an often favored and deeply idolized goddess. Justice, balance, and order are dominant elements this divine being is associated with and she's often considered to be swift but fair. Often depicted as giant, slim, and blindfolded woman. Ceritas is usually worshipped through offerings and atonements.
 
-
-## Markuul 
-#### Goddess of Death, Winter, Decay, Renewal
-
-**Holy Day**: Winter Solstice, 50 Winter
-
-Markuul is a vastly respected and greatly esteemed god. Hatred, death, rebirth and snow are common elements this divine being is associated with and most would regard her as miserable and confident. Often depicted as a tall, slender, and graceful humanoid with feline features. Markuul is usually worshipped through sacrifices and gifts.
-
-## Ororou 
-#### Goddess of the Skies, Wind, Weather, Lightning
-
-**Holy Day**: Spring Bre'kk, 100 Spring
-
-Ororou is a widely praised goddess. Often depicted as a dark skinned humanoid woman with ice white hair, she is usually worshiped through offerings and dances that are known to be dedicated to the brining of rainfall. Worshippers are plentiful and tend to come in the form of farmers, sailors, and engineers among any others that are drawn to the Goddess.
-
-
-\columnbreak
-
-
 ## Fiero 
 #### God of the Sun, Light, Summer, Fire
 
@@ -201,15 +182,35 @@ Ororou is a widely praised goddess. Often depicted as a dark skinned humanoid wo
 
 Fiero is a well praised god being that he brings the light every day. Depicted as a man with bright red skin and fiery hair he is known as being spontaneous and reckless. Worshippers are many for this god but healers and scholars are known to be devout followers. Fiero is usually worshipped through burnt offerings and prayer at sunrise.
 
+## Haymil
+#### God of Trickery, Joy, Luck
+
+**Holy Day**: Hallowed Harvest, 100 Fall
+
+Haymil is a deeply respected and adored god. He is usually worshipped through alms and chants. Worshippers are plentiful and tend to come in the form of gamblers and performers, but if in need all others are welcome to seek the guidance of this god. Typically represented as a jester of some sorts.
+
+
+\columnbreak
+
+
+
+## Markuul 
+#### Goddess of Death, the Moon, Winter
+
+**Holy Day**: Winter Solstice, 50 Winter
+
+Markuul is a vastly respected and greatly esteemed god. Hatred, death, rebirth and snow are common elements this divine being is associated with and most would regard her as miserable and confident. Often depicted as a tall, slender, and graceful humanoid with feline features. Markuul is usually worshipped through sacrifices and gifts.
+
+
 ## Rikkus 
-#### God of Wealth, Harvest, Fall, Luck
+#### God of Wealth, Harvest, Fall
 
 **Holy Day**: Fall Solstice, 50 Fall
 
 Rikkus is the god of good fortune and finds praise whenever those need to find luck. He is depicted as a large man, adorned with many gold accents, likely lounging around. Worshippers are plentiful but draw the praise of shop owners and gamblers in droves. Rikkus is usually worshipped through gifts and alms.
 
 ## Verdana 
-#### Goddess of Nature, Earth, Plants, Animals, Spring
+#### Goddess of Nature, Animals, Spring
 
 **Holy Day**: Spring Solstice, 50 Spring
 
@@ -489,7 +490,7 @@ The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual suc
     
 The Veks are a neat and tidy people known to not be seen with nary a hair out of place. Let you in on a secret, they made us put the clothes in the bag so the adventurers always looked presentable. Most of them are kinda stuck up but that's likely due to them finding much outsiders are concerned with trivial as they have almost triple the lifespan of the other races whom all live to 80/100 while the average fey touched creatures found here are known to regularly reach 240 to almost 300.
 
-<img src='https://www.gmbinder.com/images/El3eL3q.png' style='position:absolute;top:250px;left:8px;width:800px' />
+<img src='https://www.gmbinder.com/images/El3eL3q.png' style='position:absolute;top:350px;left:8px;width:800px' />
 
 </div>
 
@@ -621,20 +622,22 @@ This is the city devoted to the Sun God, Fiero, it is also the home of the fable
 <img src='https://www.gmbinder.com/images/RpbHuLD.jpg' style='height:300px'/>
 
 
+### Haymil
+
+This city is the agricultural hub for Chabotia and is also the only place gambling is legal within Charbotia. There is a temple in the city that attracts many people seeking changes to their fortunes.. 
+
+<img src='https://i.imgur.com/1Y6eacF.png' style='width:320px'/>
+
+
+\pagebreakNum
+
+
 ### Markuul
 
 This desolate town does not attract the attention of the others in the State but the followers of Markuul are diligent making sure they come to make offerings at the Temple. Those who have suffered great loss are known to come here as part of the grieving process.
 
 <img src='https://www.gmbinder.com/images/oVimJ7K.png' style='width:320px'/>
 
-\pagebreakNum
-
-
-### Ororou
-
-This city is the agricultural hub for Chabotia with even retired farmers spending their time usign their gifts to devote to the Goddess of the Skies. There is a modest temple in the city that matches the rest of the area in its simple construction. 
-
-<img src='https://www.gmbinder.com/images/tnVlFYV.png' style='width:320px'/>
 
 ### Rikkus
 
@@ -717,13 +720,16 @@ This city is situated close to the Exsalted Hills and serves as the main path of
 
 The proximity of this port to Tjarkogen sees many visitors both for travel and trade with it being a popular destination for vacation with the sandy shores and impressive buildings.
 
-<img src='https://www.gmbinder.com/images/rork9ap.png' style='width:320px'/>
+<img src='https://i.imgur.com/jyoEWBo.png' style='width:320px'/>
 
 ### Kefarjah
 
 The closest main port to Rubai means this smaller burg is well traversed by port and road seeing any external shipments come through the city.
 
 <img src='https://www.gmbinder.com/images/rork9ap.png' style='width:320px'/>
+
+\columnbreak
+
 
 ### Khaybar
 
@@ -869,7 +875,7 @@ This government has three branches, Executive, Judicial, and Legislative. There 
     
 Everyone in Ebroria is undoubtedly their own person and that's what drew them all together. While strong individualists they are very protective over their Nation. Ebroria is built upon everyone being heard so it is not uncommon for the Executive to field questions from the people in town halls or even ask for their opinions on decisions when they have a tough decision.
 
-<img src='https://www.gmbinder.com/images/weNhVSV.png' style='position:absolute;top:250px;left:10px;width:800px' />
+<img src='https://www.gmbinder.com/images/weNhVSV.png' style='position:absolute;top:350px;left:10px;width:800px' />
 
 </div>
 
