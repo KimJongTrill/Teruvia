@@ -81,11 +81,9 @@ ___
 ### Useful Links
 ___
 **Aurora Builder**
-___
 `https://aurorabuilder.com/get-started/`
 ___
 *Additional Content*
-___
 `https://raw.githubusercontent.com/AuroraLegacy
 /elements/master/core.index`
 `https://raw.githubusercontent.com/AuroraLegacy
