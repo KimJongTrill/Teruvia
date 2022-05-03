@@ -1,16 +1,5 @@
-<style>
 
-
-    .phb#p1:after {display:none;}
-    .phb:after {content: '';}
-    .phb#p40:after {display:none;}
-    .phb#p41:after {display:none;}
-    
-</style>
-
-<img src='https://www.gmbinder.com/images/NdPIjVi.jpg'  style='position:absolute;top:0px;left:0px;height:100%;width:100%'/>
-
-\pagebreak
+<img src='https://www.gmbinder.com/images/4sQVOJX.jpg'  style='position:absolute;top:0px;left:0px;height:100%;width:100%'/>
 
 <div class='wide' style="text-align: left">
 
@@ -18,49 +7,70 @@
 
 In the early days those who were there at the beginning gathered together to form primitive civilizations, claiming space, and entering conflicts for centuries. However all of that was changed when magic awakened in 695, a few select people were able to manipulate it, and did with it a variety of things from helping their communities, to using it for financial gain, with some using it to concentrate power and enact their will. 
 
-On the Mainland there were many initial warring factions but eventually united under three mighty nations, the Kolians of the mountains, the Eshean of the plains, and the Vekzs of the southern shore. These three factions would war since the earliest history and for over 500 years. At the beginning of the dawn of magic each nation was embroiled in a magical arms race as began to fight with magic and all sides saw casualties increase exponentially in what was known as Arcanageddon, realizing this was no way to grow and thrive, an armistice between the nations was struck in 875. The rulers of the 3 nations met and divided up the main land in a way that everyone was content with; to give the Vekzs the fertile valley, the Kols the bountiful mines in the mountains, and the Esheans the dense forests and bountiful plains. The nations also dedicated the Northern Ridge to the Gods, declaring it Charbotia, a nation independent, and a recognized Holy Land for any follower to inhabit. The Northern Ridge is some of the most breathtaking landscape there is with the forests and mountains leading to a beautiful coast, all of it dotted with temples to the various Gods that make up Térûvia's Pantheon. This area is one where you can find any and every one as the only requirement to be a citizen is to worship.  Peace has been had on the mainland for near 300 years, but across the Térûvian Sea it has not been the case.
+On the Mainland there were many initial warring factions but eventually united under three mighty nations, the Kolians of the mountains, the Eshean of the plains, and the Vekzs of the southern shore. These three factions would war since the earliest history and for over 500 years. At the beginning of the dawn of magic each nation was embroiled in a magical arms race as began to fight with magic and all sides saw casualties increase exponentially in what was known as The Great War, realizing this was no way to grow and thrive, an armistice between the nations was struck in 875. The rulers of the 3 nations met and divided up the main land in a way that everyone was content with; to give the Vekzs the fertile valley, the Kols the bountiful mines in the mountains, and the Esheans the dense forests and bountiful plains. The nations also dedicated the Northern Ridge to the Gods, declaring it Charbotia, a nation independent, and a recognized Holy Land for any follower to inhabit. The Northern Ridge is some of the most breathtaking landscape there is with the forests and mountains leading to a beautiful coast, all of it dotted with temples to the various Gods that make up Térûvia's Pantheon. This area is one where you can find any and every one as the only requirement to be a citizen is to worship.  Peace has been had on the mainland for near 200 years, but across the Térûvian Sea it has not been the case.
 
 While this happened on the mainland two other civilizations grew into their own places and struggled to coexist on the Eastern Ridge. The Arkhans in the North started as a few loosely connected settlements but were soon unified under their Sultan Jafar, who gained their riches from the salt fields on the Western coast and the oil fields in the desert which he used to raise an army. The Alterians are a union of tribes that lived in the dense dangerous forests and jungles in the South. The Arkhans and the Alterians have fought in the past for control of the plains, the most fertile land in all of the Eastern Ridge. Initially they used magic in their wars with no sign of stopping but were swayed into observing the armistice in 993, when the three nations of the mainland applied pressure with their unified armies. While in relative peace the tensions are as always high between the two nations on the Eastern Ridge.
 
-On the Southern Ridge you will find the lands of Eboria, a melting pot formed by the collection of castoff that didn't fit into Térûvian Society on the mainland, or didn't enjoy the tension on the Eastern Ridge. The Southern Ridge has a wonderful coast that sharply raises to the peaks of the mountains there. Here you will find just about anyone who doesn’t enjoy the cultures around the rest of Térûvia. It is the newest nation to join the armistice.
+On the Southern Ridge you will find the lands of Ebroria, a melting pot formed by the collection of castoff that didn't fit into Térûvian Society on the mainland, or didn't enjoy the tension on the Eastern Ridge. The Southern Ridge has a wonderful coast that sharply raises to the peaks of the mountains there. Here you will find just about anyone who doesn’t enjoy the cultures around the rest of Térûvia. It is the newest nation to join the armistice.
 
 
-In 1000, to celebrate the dawn of a new time and millennia, the Enclave was declared a true neutral ground where each of the nations observing the armistice could send their best and brightest to grow and learn among the different cultures. Inside the city there is a keep where each of the nations has sent a representative to negotiate on their nations behalf, for any matters that need to be handled. The city also houses the Enclave Academy where the brightest minds teach the future scholars of tomorrow. The greatest market in all the land with the finest craftmanship is found at the Bazaar. There is also the Coliseum inside where the nations pay tribute to their warring past by sending champions to fight for their nation. With the Enclave formed the nations sought to protect their lands from growing threats in the wild, and began the Adventurer's Program, a certification and support system to ensure the lands are protected.
+In 1000, to celebrate the dawn of a new time and millennia, the Enclave was declared a true neutral ground where each of the nations observing the armistice could send their best and brightest to grow and learn among the different cultures. Inside the city there is a keep where each of the nations has sent a representative to negotiate on their nations behalf, for any matters that need to be handled. The city also houses the Enclave Academy where the brightest minds teach the future scholars of tomorrow. The greatest market in all the land with the finest craftmanship is found at the Bazaar. There is also the Coliseum inside where the nations pay tribute to their warring past by sending champions to fight for their nation. With the Enclave formed the nations sought to protect their lands from growing threats in the wild, and began the Adventurers Initiative, a certification and support system to ensure the lands are protected.
 
-It is now Fall 1, 1069 and you have answered the call, coming from your little corner of Térûvia to come to the Enclave for the decennial issuing of new Adventurers Cards in the hopes of joining the 1070 class of new adventurers. To gain your adventurer card you must prove your worth by completing the Adventurer Test. You will choose what to display to prove your adventuring aptitude, for an adventurer need not be the best at EVERY thing but instead, be the best at THEIR thing.
+It is now Summer 1, 1069 and you have answered the call, coming from your little corner of Térûvia to come to the Enclave for the decennial issuing of new Adventurers Cards in the hopes of joining the 1070 class of new adventurers. To gain your adventurer card you must prove your worth by completing the Adventurer Test. You will choose what to display to prove your adventuring aptitude, for an adventurer need not be the best at EVERY thing but instead, be the best at THEIR thing.
 
-If you pass the Adventurer Test then you may go forth and reap all the rewards that come with being a Adventurer, along with all of the dangers that may bring. Be careful out there as you help keep the lands safe from those who wish evil to be done to the citizens of our lands.
+Those of you whom have passed the Adventurer Test then you may go forth and reap all the rewards that come with being a Adventurer, along with all of the dangers that may bring. Be careful out there as you help keep the lands safe from those who wish evil to be done to the citizens of our lands.
+
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide' style="text-align: center">
 
-# Adventurer's Program
+# Adventurers Initiative
 
 </div>
 
 <div class='wide' style="text-align: left">
 
-Those deemed worthy during the decennial Adventure's Program Trials are given their card and sent forth to aid in helping those around Térûvia. The only requirements are, regular reports must be sent to the Enclave detailing your deeds, and you must always honor the Adventurer's Code. In return you receive rations and basic ammunition, along with board at any of the Adventurer's Card accepting establishments you might find in the burgs across Térûvia. Those who do not meet these requirements or are found to be falsifying reports will have their cards put on hold.
+Those deemed worthy during the decennial Adventures Initiative Trials are given their card and sent forth to aid in helping those around Térûvia. The only requirements are, regular reports must be sent to the Enclave detailing your deeds, and you must always honor the Adventurer's Code. In return you receive rations and basic ammunition, along with board at any of the Adventurer's Card accepting establishments you might find in the burgs across Térûvia. Those who do not meet these requirements or are found to be falsifying reports will have their cards put on hold.
 
+</div>
+
+<div class='wide' style="text-align: center">
+
+##### *For your reports remember the following things about dates and times;*
+
+</div>
+
+<div class='wide' style="text-align: left">
+
+There are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day. 
+Days in Térûvia are grouped by Weeks which are ten days long.
+There are 400 days in a year in Térûvia, which is divided into four, 100 day, or 10 Week, Seasons; Spring, Summer, Fall, and Winter which happen in that order.
 
 #### Upon certification you will receive:
 
-* Adventurer's Card
+* Adventurer's Card and Report Binder
+* Earring of Message
 * Clothes of Mending Uniform
 * Handy Haversack
-* 3 Coins of Delving
+* Coin of Delving
 * Jug of Alchemy [Water]
 
 
 
 </div>
 
-<div class='wide' style="text-align: center">
+<div class='wide' style="text-align: left">
+
+ 
 
 ## Adventurer's Code
+
+</div>
+
+<div class='wide' style="text-align: center">
 
 </div>
 
@@ -84,27 +94,28 @@ Those deemed worthy during the decennial Adventure's Program Trials are given th
 ## Field Notes from Adventurers
 
 
-As we are only able to truly succeed by building off the advancements of those who came before us, we have included field notes from adventurers to help aid in your travels across Térûvia. We have asked your fellow adventurers to give you a guide to the area around you. These notes have been gathered by the adventurers who came before you over the course of their travels in Térûvia.
+As we are only able to truly succeed by building off the advancements of those who came before us, we have included field notes from adventurers to help aid in your travels across Térûvia. We have asked your fellow adventurers to give you a guide to the area around you. These notes have been gathered by the adventurers who came before you over the course of their travels in Térûvia and are included as the descriptions for places.
 
-<div style='margin-top:40px;'> </div>
+<div style='margin-top:10px;'> </div>
 
 ### Special Thanks:
+
 </div>
 
 <div style="text-align: center">
 
 ___
-- Kjarl Thumbman
 - Wan the 1
 - Richard Tuggins
 - Ragnar the Brawny
 - Sir Brakk Gabbaaguulll
 - Ana May
-- Umeric Emberwood
+- Umeric Amberwalker
 - Velynne Harpell
 - Ragnar the Brainy
 - Thark
 - Sir Chad the Holy
+- Dungus Diaboro
 - Ragnar the Bold
 - Yippy Yetihands
 - My'Kk H'nnt
@@ -117,11 +128,10 @@ ___
 - Bardi the Bard
 
 
-\columnbreak
+
 
 ___
 - Varis Emberwood
-- Axana VonWhoston
 - Bonesaw the Savage
 - Eyevana Ceyurpeetr
 - Edmund, the Unsettled
@@ -141,12 +151,12 @@ ___
 - Jack the Runeblade
 - Futt Buckerson
 - One Eyed Willy
-- Scot Steyener
+- Scoot Steyener
 
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide' style="text-align: center">
 
@@ -156,7 +166,7 @@ ___
 
 <div class='wide' style="text-align: left">
 
-The Seven Deities are the source of all this is, was, and could be. The first settlers of these lands were placed here by the Seven Deities, so we owe all we are and have been to them, and without them we are nothing.  When identifying the Gods in your reports remember to do so respectfully and correctly. Do not misname or misattribute them for it is unbecoming of an adventurer to not know our Gods. Any reports with blasphemous typos are to be considered void.
+The Seven Deities are the source of all this is, was, and could be. The first settlers of these lands were placed here by the Seven Deities, so we owe all we are and have been to them, and without them we are nothing. When identifying the Gods in your reports remember to do so respectfully and correctly. Do not misname or misattribute them for it is unbecoming of an adventurer to not know our Gods. Any reports with blasphemous typos are to be considered void.
 
 </div>
 
@@ -173,33 +183,33 @@ Atlanta is a widely praised goddess. Often depicted as a dark skinned humanoid w
 
 **Holy Day**: Dusk of 100 Summer to sunrise of 1 Fall
 
-Ceritas is an often favored and deeply idolized goddess. Justice, balance, and order are dominant elements this divine being is associated with and she's often considered to be swift but fair. Often depicted as giant, slim, and blindfolded woman. Ceritas is usually worshipped through offerings and atonements.
+Ceritas is an often favored and deeply idolized goddess. Justice, balance, and order are dominant elements this divine being is associated with and she's often considered to be swift but fair. Often depicted as a giant, slim, and blindfolded woman. Ceritas is usually worshipped through offerings and atonements.
 
 ## Fiero 
 #### God of the Sun, Light, Summer, Fire
 
 **Holy Day**: Summer Solstice, 50 Summer
 
-Fiero is a well praised god being that he brings the light every day. Depicted as a man with bright red skin and fiery hair he is known as being spontaneous and reckless. Worshippers are many for this god but healers and scholars are known to be devout followers. Fiero is usually worshipped through burnt offerings and prayer at sunrise.
+Fiero is a well praised god being that he brings the light every day. Depicted as a man with deep rose skin and fiery hair he is known as being spontaneous and reckless. Worshippers are many for this god but healers and scholars are known to be devout followers. Fiero is usually worshipped through burnt offerings and prayer at sunrise.
 
 ## Haymil
 #### God of Trickery, Joy, Luck
 
 **Holy Day**: Hallowed Harvest, 100 Fall
 
-Haymil is a deeply respected and adored god. He is usually worshipped through alms and chants. Worshippers are plentiful and tend to come in the form of gamblers and performers, but if in need all others are welcome to seek the guidance of this god. Typically represented as a jester of some sorts.
+Haymil is a deeply respected and adored god. He is usually worshipped through alms and chants. Worshippers are plentiful and tend to come in the form of gamblers and performers, but if in need all others are welcome to seek the guidance of this god. Typically represented as a showman of some sorts.
 
 
-\columnbreak
+
 
 
 
 ## Markuul 
-#### Goddess of Death, the Moon, Winter
+#### Goddess of Death, the Moon, Winter, War
 
 **Holy Day**: Winter Solstice, 50 Winter
 
-Markuul is a vastly respected and greatly esteemed god. Hatred, death, rebirth and snow are common elements this divine being is associated with and most would regard her as miserable and confident. Often depicted as a tall, slender, and graceful humanoid with feline features. Markuul is usually worshipped through sacrifices and gifts.
+Markuul is a vastly respected and greatly esteemed goddess. Hatred, death, rebirth and snow are common elements this divine being is associated with and most would regard her as miserable and confident. Often depicted as a tall, slender, and graceful humanoid with feline features. Markuul is usually worshipped through sacrifices and gifts.
 
 
 ## Rikkus 
@@ -217,7 +227,7 @@ Rikkus is the god of good fortune and finds praise whenever those need to find l
 Verdana is the goddess of the earth and resposible for all of the growth so her followers sprout up everywhere. She is depicted as a tall slender woman with long red hair, fair skin, and a fan of leafly fashion. Worshippers are plentiful and tend to come in the form of naturalists, shepherds and outsiders.
 
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -232,7 +242,7 @@ The Dwarven Feldar Family bloodline has ruled since the Armistice was formed, cu
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -247,7 +257,7 @@ Serving as the de facto capital for the Kolian Kingdom the city serves as the in
 
 </div>
 
-\pagebreakNum
+
 
 ## Kolian Burgs
 
@@ -262,7 +272,7 @@ The settlement part way up the Ebreken Alp is sustained by the gold and silver m
 
 <img src='https://www.gmbinder.com/images/osZBZ4W.png' style='width:320px'/>
 
-\columnbreak
+
 
 ### Frekjavic
 The village at the base of Mt. Frekjavic, is known for the rare gem mine the town was built around. It has any supplies needed for the arduous climb up the mountain it shares a name with. Many wealthy citizens own homes here, so it pays well to check out jobs here.
@@ -275,7 +285,7 @@ The settlement at the base of Hvall's Horn is known for its dense iron mines. Na
 <img src='https://www.gmbinder.com/images/EUoZDnv.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 
 ### Kavosen
@@ -289,7 +299,7 @@ This small city serves as a minimal base camp for the few that brave to climb Mt
 <img src='https://www.gmbinder.com/images/mCASOwM.png' style='width:320px'/>
 
 
-\columnbreak
+
 
 ### Kroksdarl
 Serving as the gateway to the towns within the Kolian Range the mines are long depleted, but some still look for treasures down in the mines.
@@ -302,7 +312,7 @@ This town is across the ravine and deep into the forest along the south coast. N
 <img src='https://www.gmbinder.com/images/msoKktx.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 ### Starjarl
 This town is deep into the forest behind Mt. Frekjavic, nestled a few miles off the Southern coast. The town is known for the expert wood working and lumberjacking.
@@ -317,7 +327,7 @@ Located within the bountiful Kolian Valley this village serves as the main hub f
 
 
 
-\columnbreak
+
 
 ### Tjarkogen
 This port city is a center for commerce, being the largest city in the nation, it has every amenity a large city should provide. The Sailors Academy, Atlantis is located on the port.
@@ -326,7 +336,7 @@ This port city is a center for commerce, being the largest city in the nation, i
  
 
 
-\pagebreakNum
+
 
 <div class='wide' >
 
@@ -341,7 +351,7 @@ Three Royal Families recognized the Ek'Sha Orc bloodline, Fus'Roh Dragonborn blo
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide' >
 
@@ -356,7 +366,7 @@ Romana, the capital of the Eshean Empire, is built around a keep surrounded by c
 
 </div>
 
-\pagebreakNum
+
 
 ## Eshean Burgs
 
@@ -380,7 +390,7 @@ Isolated in the plains this town is a hub for local commerce, with the bountiful
 
 <img src='https://www.gmbinder.com/images/jh05xN8.png' style='width:320px'/>
 
-\pagebreakNum
+
 
 
 ### Emerald
@@ -404,7 +414,7 @@ This town is at the base of Mount Térûvia and serves as the camp for any who d
 <img src='https://www.gmbinder.com/images/xT6zh0p.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 
 ### Liger
@@ -417,7 +427,7 @@ Lontia is somewhat near the coast of Loch Térûvia but otherwise is pretty isol
 
 <img src='https://www.gmbinder.com/images/VPcI77H.png' style='width:320px'/>
 
-\columnbreak
+
 
 
 ### Malaka
@@ -430,7 +440,7 @@ The last stop for those traveling the road to Romana from the Enclave this city 
 
 <img src='https://www.gmbinder.com/images/d92apyg.png' style='width:320px'/>
 
-\pagebreakNum
+
 
 
 ### Ptolem
@@ -444,7 +454,7 @@ This sprawling city has grown out of the need for a place for all the local farm
 <img src='https://www.gmbinder.com/images/eRgfmkj.png' style='width:320px'/>
 
 
-\columnbreak
+
 
 
 ### Sozorion
@@ -457,7 +467,7 @@ Serving as a check point to the large city of Sozorion this city has grown due t
 
 <img src='https://www.gmbinder.com/images/zwh5nRh.jpg' style='width:320px'/>
 
-\pagebreakNum
+
 
 
 ### Tamos
@@ -471,7 +481,7 @@ Many who make their pilgrimage to the Holy Land find themselves stopping here fo
 <img src='https://www.gmbinder.com/images/7fUJh4t.png' style='width:320px'/>
 
 
-\columnbreak
+
 
 
 ### Victre
@@ -480,7 +490,7 @@ This city is the gate to the Eshean Wood and the path that goes through to Evexu
 <img src='https://www.gmbinder.com/images/ZexCYP8.jpg' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -494,7 +504,7 @@ The Veks are a neat and tidy people known to not be seen with nary a hair out of
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -508,7 +518,7 @@ Whitspire is home of the famous Castle Whitespire, seat of the High Vekz. Nestle
 
 </div>
 
-\pagebreakNum
+
 
 ## Vekzian Burgs
 
@@ -524,7 +534,7 @@ This city on the southern bank of Loch Terûvia is a proud city of hunters and s
 
 <img src='https://www.gmbinder.com/images/h6eldfN.png' style='width:320px'/>
 
-\columnbreak
+
 
 
 ### Faerûn
@@ -540,7 +550,7 @@ This city is placed inside the hills at the north of the valley, agriculture fro
 <img src='https://www.gmbinder.com/images/jq68ocs.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 
 ### Ravenrock
@@ -555,7 +565,7 @@ Tal'Dorei is the largest city in the Dominon with a large port that sees high tr
 
 <img src='https://www.gmbinder.com/images/iGxGFKs.png' style='width:320px'/>
 
-\columnbreak
+
 
 
 ### Waterdeep
@@ -565,7 +575,7 @@ This city at the border of the Eshean and Vekzian nations is a common spot for t
 <img src='https://www.gmbinder.com/images/teNJg4j.jpg' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -579,7 +589,7 @@ Well the Charbotians are probably the reason the gods haven't smited the rest of
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -594,7 +604,7 @@ Olympana is a sprawling work of art with the shining gem as the centerpiece of t
 
 </div>
 
-\pagebreakNum
+
 
 ## Charbotian Burgs
 
@@ -612,7 +622,7 @@ This city is devoted to the woderful Ceritas Goddess of Justice and Truth, the o
 <img src='https://www.gmbinder.com/images/HsJHRxb.png' style='height:300px'/>
 
 
-\columnbreak
+
 
 
 ### Fiero
@@ -629,7 +639,7 @@ This city is the agricultural hub for Chabotia and is also the only place gambli
 <img src='https://www.gmbinder.com/images/1Y6eacF.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 
 ### Markuul
@@ -645,7 +655,7 @@ The Golden Temple of Rikkus this city houses is the centerpiece to a well kept w
 
 <img src='https://www.gmbinder.com/images/wHX6NNz.jpg' style='width:320px'/>
 
-\columnbreak
+
 
 ### Verdana
 
@@ -654,7 +664,7 @@ This city is built using the surrounding terrain as mush as possible with houses
 <img src='https://www.gmbinder.com/images/kIq1nt5.jpg' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -667,7 +677,7 @@ The people of Arkana place high value in their economic and social status. The m
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -681,7 +691,7 @@ Rubai is the shining gem of Arkana, home to the Sultan and the Palace and by far
 
 </div>
 
-\pagebreakNum
+
 
 ## Arkanan Burgs
 
@@ -698,7 +708,7 @@ This small town serves as a place for weary travelers to stop through while head
 <img src='https://www.gmbinder.com/images/fXQbsRC.png' style='width:320px'/>
 
 
-\columnbreak
+
 
 
 ### Besh
@@ -714,7 +724,7 @@ This city is situated close to the Exsalted Hills and serves as the main path of
 <img src='https://www.gmbinder.com/images/is74RQy.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 ### Ghiz
 
@@ -728,7 +738,7 @@ The closest main port to Rubai means this smaller burg is well traversed by port
 
 <img src='https://www.gmbinder.com/images/rork9ap.png' style='width:320px'/>
 
-\columnbreak
+
 
 
 ### Khaybar
@@ -745,7 +755,7 @@ This small city is situated near a river that drives the limited farming done in
 <img src='https://www.gmbinder.com/images/dQoMbgi.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 ### Makh
 
@@ -761,7 +771,7 @@ This city segregated from most others sees few vistors in or out and is a quiet 
 <img src='https://www.gmbinder.com/images/ElfVHxU.png' style='width:320px'/>
 
 
-\columnbreak
+
 
 
 ### Sphinxos
@@ -771,7 +781,7 @@ This city is supported by a lively port but otherwise its distance off the road 
 <img src='https://www.gmbinder.com/images/BvkpWS4.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 
 ### Sharwah
@@ -781,7 +791,7 @@ This farming city under Arkanan control is old and has traded hand many time bet
 <img src='https://www.gmbinder.com/images/nEckE1v.jpg' style='width:320px'/>
 
 
-\columnbreak
+
 
 ### Varrakesh
 
@@ -789,7 +799,7 @@ This large city is found deep within the desert a bit of distance from the shore
 
 <img src='https://www.gmbinder.com/images/o9eqmAD.png' style='width:320px'/>
 
-\pagebreakNum
+
 
 
 <div class='wide'>
@@ -805,7 +815,7 @@ The forest dwellers of the lands of Alteria are some of the most resourceful peo
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -820,7 +830,7 @@ Timberbay is one of the most fascinating city in all the lands I have ever seen 
 
 </div>
 
-\pagebreakNum
+
 
 ## Alteric Burgs
 
@@ -836,7 +846,7 @@ This city is another built from nature with some living on the ground and some t
 
 <img src='https://www.gmbinder.com/images/4sCnyiS.png' style='width:320px'/>
 
-\columnbreak
+
 
 ### Portstown
 
@@ -850,7 +860,7 @@ This densely populated logging burg is under almost complete cover from the tree
 
 <img src='https://www.gmbinder.com/images/75DDN1F.png' style='width:320px'/>
 
-\pagebreakNum
+
 
 ### Swifthill
 
@@ -865,7 +875,7 @@ This smaller port has a sizeable trading presence and sees quite a bit of traffi
 <img src='https://www.gmbinder.com/images/RVmGp2j.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -879,7 +889,7 @@ Everyone in Ebroria is undoubtedly their own person and that's what drew them al
 
 </div>
 
-\pagebreakNum
+
 
 <div class='wide'>
 
@@ -893,7 +903,7 @@ The city of Spirepeak is built into the side of Spirepeak Summit with Spirepeak 
 
 </div>
 
-\pagebreakNum
+
 
 ## Ebrorian Burgs
 
@@ -911,7 +921,7 @@ This massive city has quite possibly the best port in all of the lands and no sh
 <img src='https://www.gmbinder.com/images/t9mHinL.jpg' style='width:320px'/>
 
 
-\columnbreak
+
 
 
 ### Boneshake
@@ -928,7 +938,7 @@ This small port centric town has a some what busy port that mainly sees fishers 
 <img src='https://www.gmbinder.com/images/HEdounq.png' style='width:320px'/>
 
 
-\pagebreakNum
+
 
 
 ### Swanhold
@@ -939,14 +949,14 @@ This logging town boasts a robust port and hearty people, the swans are quite be
 
 
 
-\pagebreakNum
+
 
 <div class='wide' style="text-align: center">
 
 
 
 # Census Results from 1064
-<div style='margin:30px;'> </div>
+<div style='margin:10px;'> </div>
 
 </div>
 
@@ -1034,7 +1044,7 @@ Whitespire|Vekzia|21684
 
 
 
-\pagebreakNum
+
 
 
 <div class='wide' style="text-align: center">
