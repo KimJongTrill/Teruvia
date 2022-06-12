@@ -66,8 +66,10 @@ ___
 
 `https://raw.githubusercontent.com/AuroraLegacy
 /elements/master/core.index`
+
 `https://raw.githubusercontent.com/AuroraLegacy
 /elements/master/supplements.index`
+
 `https://raw.githubusercontent.com/KimJongTrill/Aurora-Homebrew/master/KJTCC.index`
 ___
 5eTools - `https://5e.tools/index.html`
