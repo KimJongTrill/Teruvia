@@ -57,11 +57,11 @@ ___
 
 
 ### Useful Links
-___
+
 **Aurora Builder**
 
 `https://aurorabuilder.com/get-started/`
-___
+
 *Additional Content*
 
 `https://raw.githubusercontent.com/AuroraLegacy
@@ -71,7 +71,6 @@ ___
 /elements/master/supplements.index`
 
 `https://raw.githubusercontent.com/KimJongTrill/Aurora-Homebrew/master/KJTCC.index`
-___
+
 5eTools - `https://5e.tools/index.html`
-___
 
