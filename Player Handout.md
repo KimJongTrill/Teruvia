@@ -1,8 +1,4 @@
-<div class='wide' style="text-align: center">
-
 # Character Creation
-
-</div>
 
 * **Level: 3**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
 * **Hit Dice.** Use the average.
@@ -13,15 +9,8 @@
 
 Reach out for any additional details about big picture stuff, feel free to give their home some life with small details that you feel fit the area. Compelling characters have flaws, so play into your weaknesses not just strengths. Secrets are encouraged about your past to keep from the party, and even some you might give me the opprotunity to keep from you. Don't feel bound by the burgs given for there are plenty of not officially named smaller settlements peppered all throughout Térûvia that could have as few as double digits to as many as a couple hundred people. While you can have grand ideas for your character remember you are currently level 3 so keep the exploits local.
 
-<div style='margin-top:15px;'>
 
-<div style="text-align: center">
-
-##### Sessions will be Thursdays at 7pm, changing as needed
- 
-</div>
-
-<div class='wide' style="text-align: center">
+## Sessions will be Thursdays at 7pm, changing as needed
 
 ### Races and Typical Home Nations
 
@@ -31,18 +20,11 @@ Dwarf|Bugbear|Aasimar|Genasi [Fire]|Aarakocra|Genasi [Water] | *Devout Religious
 Gnome|Dragonborn|Elves [All]|Kenku|Centaur|Grung||Custom
 Goliath|Hobgoblin|Fairy|Lizardfolk|Firbolg|Humans|	|Dhampir
 Halfling|Leonin|Harengon|Loxodon|Genasi [Air]|Kobolds| |Hexblood
-Minoutaur|Orcs|Kalashtar|Tabaxi|Genasi [Earth]|Locathah| |Reborn
-Tortle|Tiefling|Satyrs|Vedalken|Owlin|Triton| |Shifter
-
-
-</div>
-
-
-<div class='wide' style="text-align: center">
+Minoutaur|Orcs|Kalashtar|Tabaxi|Genasi [Earth]|Triton| |Reborn
+Tortle|Tiefling|Satyrs|Vedalken|Owlin|Warforged| |Shifter
 
 # House Rules
 
-</div>
 
 ### Custom Rest System
 _____
@@ -62,10 +44,6 @@ ___
 - **Downtime** [XGE 123+] *5eTools to see all*
 - **Spell Points** [DMG 288] *for Sorcerers only, count as Sorcery Points*
 - **Optional Class Features** [TCE+] *Aurora or 5eTools to see all*
- 
-
-<div style='margin-top:30px;'>
-
 
 ### Homebrew
 * Dungeon Dude's Crits - *regular dice + maxed crit dice*
@@ -81,16 +59,17 @@ ___
 ### Useful Links
 ___
 **Aurora Builder**
+___
 `https://aurorabuilder.com/get-started/`
 ___
 *Additional Content*
- 
-`https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index`
- 
-`https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index`
- 
+___
+`https://raw.githubusercontent.com/AuroraLegacy
+/elements/master/core.index`
+`https://raw.githubusercontent.com/AuroraLegacy
+/elements/master/supplements.index`
 `https://raw.githubusercontent.com/KimJongTrill/Aurora-Homebrew/master/KJTCC.index`
 ___
-5eTools - `https://get.5e.tools/index.html`
+5eTools - `https://5e.tools/index.html`
 ___
 
