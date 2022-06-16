@@ -67,7 +67,7 @@ ___
 
 `https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index`
 
-`https://raw.githubusercontent.com/KimJongTrill/DnD-Homebrew/masetr/Aurora/KJTCC.index`
+`https://raw.githubusercontent.com/KimJongTrill/DnD-Homebrew/master/Aurora/KJTCC.index`
 
 5eTools - `https://5e.tools/index.html`
 
