@@ -69,5 +69,7 @@ ___
 
 `https://raw.githubusercontent.com/KimJongTrill/DnD-Homebrew/master/Aurora/KJTCC.index`
 
-5eTools - `https://5e.tools/index.html`
+**5eTools** - `https://5e.tools/index.html`
+
+**Adventurer's Guide to Térûvia** - `https://www.gmbinder.com/pdf/-MxkLio91IPl29SFoO8H/adventurers-guide-to-trvia.pdf`
 
