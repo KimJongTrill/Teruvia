@@ -1,7 +1,7 @@
 # Character Creation
 * **Level: 4 w/ free Feat**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
 * **Hit Dice.** Use the average.
-* **Ability Scores:** Go to *#stat-gen* in the Discord and enter `!rr 6 4d6pl1`, arrange as desired. Re-roll the whole lot if they don't add up to at least 70.
+* **Ability Scores:** Go to *#stat-gen* in the Discord and enter `!rollstats`, arrange as desired.
 * **Equipment:** One *Common* and *Uncommon* Magic Item tied to your backstory, along with your standard starting equipment, open to your ideas for weapon customization for flavor.
 * **Classes.** Any official WOTC 5e content or specified Homebrew. 2 classes max.
 * **Races.** Any listed race and all their official variants/halfs, use MotM version if multiple. Lifespan is normalized to human, fey based races can go up to high 200s. Nation is just a suggestion, but remember how being different might affect your character.
