@@ -39,7 +39,7 @@ ___
 - **Multiclassing** [PHB 163] *1 class additional, with RP reason*
 - **Feats** [PHB 165] *ASI alternative*
 - **Cleaving** [DMG 272] *Doesn't have to be unharmed*
-- **Firearms** [DMG 267] *See Gunslinger PDF for Firearms*
+- **Firearms** [DMG 267] *See Aurora for Firearms*
 - **Downtime** [XGE 123+] *5eTools to see all*
 - **Spell Points** [DMG 288] *for Sorcerers only, count as Sorcery Points*
 - **Optional Class Features** [TCE+] *Aurora or 5eTools to see all*
@@ -47,7 +47,7 @@ ___
 ### Homebrew
 * Dungeon Dude's Crits - *regular dice + maxed crit dice*
 * Critical Role's Rapid Quaffing - *BA self-potioning*
-* Gunslinger w/ CR Guns - *see PDF in discord*
+* Gunslinger - *see class and guns in Aurora*
 * College of the Maestro - *see PDF in discord*
 * Blood Hunter, no Mutant - *D&D Beyond*
 * Unarmed Strikes can Smite
