@@ -47,7 +47,7 @@ ___
 ### Homebrew
 * Dungeon Dude's Crits - *regular dice + maxed crit dice*
 * Critical Role's Rapid Quaffing - *BA self-potioning*
-* Gunslinger - *see class and guns in Aurora*
+* Teruvian Gunslinger - *see class and guns in Aurora*
 * College of the Maestro - *see PDF in discord*
 * Blood Hunter, no Mutant - *D&D Beyond*
 * Unarmed Strikes can Smite
