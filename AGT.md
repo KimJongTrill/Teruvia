@@ -1,6 +1,5 @@
 <img src='https://www.gmbinder.com/images/4sQVOJX.jpg'  style='width:100%'/>
 
-<div class='wide' style="text-align: left">
 
 # Térûvia, Our Home
 
