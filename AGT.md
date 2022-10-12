@@ -1,7 +1,3 @@
-layout: page
-title: "Adventurer's Guide to Térûvia"
-permalink: /Teruvia/AGT
-
 <img src='https://www.gmbinder.com/images/4sQVOJX.jpg'  style='width:100%'/>
 
 <div class='wide' style="text-align: left">
@@ -24,29 +20,12 @@ It is now Summer 1, 1069 and you have answered the call, coming from your little
 Those of you whom have passed the Adventurer Test then you may go forth and reap all the rewards that come with being a Adventurer, along with all of the dangers that may bring. Be careful out there as you help keep the lands safe from those who wish evil to be done to the citizens of our lands.
 
 
-</div>
-
-
-
-<div class='wide' style="text-align: center">
-
 # Adventurers Initiative
-
-</div>
-
-<div class='wide' style="text-align: left">
 
 Those deemed worthy during the decennial Adventures Initiative Trials are given their card and sent forth to aid in helping those around Térûvia. The only requirements are, regular reports must be sent to the Enclave detailing your deeds, and you must always honor the Adventurer's Code. In return you receive rations and basic ammunition, along with board at any of the Adventurer's Card accepting establishments you might find in the burgs across Térûvia. Those who do not meet these requirements or are found to be falsifying reports will have their cards put on hold.
 
-</div>
-
-<div class='wide' style="text-align: center">
 
 ##### *For your reports remember the following things about dates and times;*
-
-</div>
-
-<div class='wide' style="text-align: left">
 
 There are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day. 
 Days in Térûvia are grouped by Weeks which are ten days long.
@@ -61,23 +40,8 @@ There are 400 days in a year in Térûvia, which is divided into four, 100 day, 
 * Coin of Delving
 * Jug of Alchemy [Water]
 
-
-
-</div>
-
-<div class='wide' style="text-align: left">
-
- 
-
 ## Adventurer's Code
 
-</div>
-
-<div class='wide' style="text-align: center">
-
-</div>
-
-<div class='wide' style="text-align: left">
 
 
 * Always make sure your reports are up to date, or risk your status falling into decline.
@@ -88,24 +52,14 @@ There are 400 days in a year in Térûvia, which is divided into four, 100 day, 
 * Do nothing to bring severe defamation to Adventurers.
 
 
-</div>
-
-<div class='wide' style="text-align: center">
-
-
 
 ## Field Notes from Adventurers
 
 
 As we are only able to truly succeed by building off the advancements of those who came before us, we have included field notes from adventurers to help aid in your travels across Térûvia. We have asked your fellow adventurers to give you a guide to the area around you. These notes have been gathered by the adventurers who came before you over the course of their travels in Térûvia and are included as the descriptions for places.
 
-<div style='margin-top:10px;'> </div>
 
 ### Special Thanks:
-
-</div>
-
-<div style="text-align: center">
 
 ___
 - Wan the 1
@@ -157,21 +111,9 @@ ___
 - Scoot Steyener
 
 
-</div>
-
-
-
-<div class='wide' style="text-align: center">
-
-# Térûvian Pantheon
-
-</div>
-
-<div class='wide' style="text-align: left">
+ # Térûvian Pantheon
 
 The Seven Deities are the source of all this is, was, and could be. The first settlers of these lands were placed here by the Seven Deities, so we owe all we are and have been to them, and without them we are nothing. When identifying the Gods in your reports remember to do so respectfully and correctly. Do not misname or misattribute them for it is unbecoming of an adventurer to not know our Gods. Any reports with blasphemous typos are to be considered void.
-
-</div>
 
 ## Atlanta 
 #### Goddess of the Wind, Lightning, Sea
