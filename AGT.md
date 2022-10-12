@@ -115,6 +115,7 @@ ___
 
 The Seven Deities are the source of all this is, was, and could be. The first settlers of these lands were placed here by the Seven Deities, so we owe all we are and have been to them, and without them we are nothing. When identifying the Gods in your reports remember to do so respectfully and correctly. Do not misname or misattribute them for it is unbecoming of an adventurer to not know our Gods. Any reports with blasphemous typos are to be considered void.
 
+
 ## Atlanta 
 #### Goddess of the Wind, Lightning, Sea
 
@@ -131,7 +132,7 @@ Atlanta is a widely praised goddess. Often depicted as a dark skinned humanoid w
 Ceritas is an often favored and deeply idolized goddess. Justice, balance, and order are dominant elements this divine being is associated with and she's often considered to be swift but fair. Often depicted as a giant, slim, and blindfolded woman. Ceritas is usually worshipped through offerings and atonements.
 
 ## Fiero 
-#### God of the Sun, Light, Summer, Fire
+#### God of the Sun, Light, Summer, Fire, War
 
 **Holy Day**: Summer Solstice, 50 Summer
 
@@ -145,12 +146,8 @@ Fiero is a well praised god being that he brings the light every day. Depicted a
 Haymil is a deeply respected and adored god. He is usually worshipped through alms and chants. Worshippers are plentiful and tend to come in the form of gamblers and performers, but if in need all others are welcome to seek the guidance of this god. Typically represented as a showman of some sorts.
 
 
-
-
-
-
 ## Markuul 
-#### Goddess of Death, the Moon, Winter, War
+#### Goddess of Death, the Moon, Winter, Life
 
 **Holy Day**: Winter Solstice, 50 Winter
 
@@ -169,9 +166,7 @@ Rikkus is the god of good fortune and finds praise whenever those need to find l
 
 **Holy Day**: Spring Solstice, 50 Spring
 
-Verdana is the goddess of the earth and resposible for all of the growth so her followers sprout up everywhere. She is depicted as a tall slender woman with long red hair, fair skin, and a fan of leafly fashion. Worshippers are plentiful and tend to come in the form of naturalists, shepherds and outsiders.
-
-
+Verdana is the goddess of the earth and responsible for all of the growth so her followers sprout up everywhere. She is depicted as a tall slender woman with long red hair, fair skin, and a fan of leafly fashion. Worshippers are plentiful and tend to come in the form of naturalists, shepherds and outsiders.
 
 
 <div class='wide'>
