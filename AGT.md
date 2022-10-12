@@ -2,7 +2,7 @@ layout: page
 title: "Adventurer's Guide to Térûvia"
 permalink: /Teruvia/AGT
 
-<img src='https://www.gmbinder.com/images/4sQVOJX.jpg'  style='position:absolute;top:0px;left:0px;height:100%;width:100%'/>
+<img src='https://www.gmbinder.com/images/4sQVOJX.jpg'  style='width:100%'/>
 
 <div class='wide' style="text-align: left">
 
@@ -241,7 +241,7 @@ The Kolians are a stoic nation that survives in the height of the mountains not 
 The Dwarven Feldar Family bloodline has ruled since the Armistice was formed, current King is Ragnar Feldar VIII. The King lives in the castle Feldarholmr within the capitol with a cabinet of advisors chosen by the Monarch. The Feldar family was known for uniting the now Kolians against the Esheans before the armistice and were rewarded with the monarchy for ensuring their survival. The Monarch is mostly a ceremonial position as they have decided the representative for the Enclave is elected by the people.
 
 
-<img src='https://www.gmbinder.com/images/0D7EJA6.jpg' style='position:absolute;top:250px;left:100px;height:750px' />
+<img src='https://www.gmbinder.com/images/0D7EJA6.jpg' style='height:750px' />
 
 </div>
 
@@ -256,7 +256,7 @@ ___
 Serving as the de facto capital for the Kolian Kingdom the city serves as the insulator for Feldar's Keep. The city is a very well sailed port seeing many boats come and go each day, second only to Tjarkogen in volume within Kol. Known as a hub of innovation most of the best engineers that the Kolians are known for reside inside this city. The Feldar Institute of Engineering is located in Old Feldarholmr, and is the foremost academy for tinkerers and crafters alike drawing people from all corners of Térûvia.
 
 
-<img src='https://www.gmbinder.com/images/QjRnmNs.png' style='position:absolute;top:175px;left:85px;height:800px'/>
+<img src='https://www.gmbinder.com/images/QjRnmNs.png' style='height:800px'/>
 
 </div>
 
@@ -350,7 +350,7 @@ The Esheans are a proud nation of fierce warriors and influential artists, but n
 Three Royal Families recognized the Ek'Sha Orc bloodline, Fus'Roh Dragonborn bloodline, and the Nar'Nayan bloodline of the Leonin. Current ruler is Rok Ek'Sha and has been seated since he won the seat almost 50 years ago. Upon death of the monarch all eligible heirs (18-36) participate in a set of trials combining mental, physical, and artistic abilities, since the Esheans put pride in the beaty of war, debate, and art. Winner is crowned king, while others sit on the Court to serve as advisors. Generals are appointed to keep order in the burgs by the monarch, by proving strength both mental and physical.
 
 
-<img src='https://www.gmbinder.com/images/Jl2vQC2.jpg' style='position:absolute;top:300px;left:8px;width:800px'/>
+<img src='https://www.gmbinder.com/images/Jl2vQC2.jpg' style='width:800px'/>
 
 </div>
 
@@ -365,7 +365,7 @@ ___
 Romana, the capital of the Eshean Empire, is built around a keep surrounded by colonnades and public buildings. It functions as a market place, political meeting point and social center. The public buildings surrounding include the main temple, the amphitheatre, the law courts, and the main public baths of the city. The city also contains a coliseum a while outside the city walls where champions of Eshea fight to prove their strength. There are also daily congregations of philosophers and those who wish to glean information at the amphitheatre. With the road running through the center of town plenty of people pass through here and many adventures can be had in a large city like this.
 
 
-<img src='https://www.gmbinder.com/images/sTDsIBI.png' style='position:absolute;top:200px;left:65px;height:750px'/>
+<img src='https://www.gmbinder.com/images/sTDsIBI.png' style='height:750px'/>
 
 </div>
 
@@ -503,7 +503,7 @@ The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual suc
     
 The Veks are a neat and tidy people known to not be seen with nary a hair out of place. Let you in on a secret, they made us put the clothes in the bag so the adventurers always looked presentable. Most of them are kinda stuck up but that's likely due to them finding much outsiders are concerned with trivial as they have almost triple the lifespan of the other races whom all live to 80/100 while the average fey touched creatures found here are known to regularly reach 240 to almost 300.
 
-<img src='https://www.gmbinder.com/images/El3eL3q.png' style='position:absolute;top:350px;left:8px;width:800px' />
+<img src='https://www.gmbinder.com/images/El3eL3q.png' style='width:800px' />
 
 </div>
 
@@ -517,7 +517,7 @@ ___
 
 Whitspire is home of the famous Castle Whitespire, seat of the High Vekz. Nestled in the valley by Lake Whitespire, this is considered the shining gem of the Vekzian Dominon. Much can be found in this enormous city with anything you could look for on top of being one of the cleanest places I've even been to. The inns and taverns are some of the most well run but don't try to start a fight, they're quick to break it up. 
 
-<img src='https://www.gmbinder.com/images/pp1BGe8.png' style='position:absolute;top:175px;left:58px;width:700px'/>
+<img src='https://www.gmbinder.com/images/pp1BGe8.png' style='width:700px'/>
 
 </div>
 
@@ -588,7 +588,7 @@ Each God has chosen a High Priest to represent them outside of Olympana. The de 
 Well the Charbotians are probably the reason the gods haven't smited the rest of the continent with the constant praising of the gods and daily rituals performed at the temples. They are normally a peaceful people but have been known to sometimes use force to impose the Gods will.
 
 
-<img src='https://www.gmbinder.com/images/hHbVyL5.jpg' style='position:absolute;top:250px;left:8px;width:800px' />
+<img src='https://www.gmbinder.com/images/hHbVyL5.jpg' style='width:800px' />
 
 </div>
 
@@ -603,7 +603,7 @@ ___
 Olympana is a sprawling work of art with the shining gem as the centerpiece of the city being the High Temple the one temple for all of the Seven Deities to be worshipped under one roof. The port here is traveled by many and sees a large amount of trade and pilgrimage for those who wish to pay a greater respect.
 
 
-<img src='https://www.gmbinder.com/images/KhQhydG.jpg' style='position:absolute;top:250px;left:58px;width:700px'/>
+<img src='https://www.gmbinder.com/images/KhQhydG.jpg' style='width:700px'/>
 
 </div>
 
@@ -676,7 +676,7 @@ This city is built using the surrounding terrain as mush as possible with houses
 Head of the government in Arkana is the Sultan from the Rethzaki Family. The first Sultan Jafar Rethzaki was the first leader simply by raising his independent army off the fortune made from the oil and salt mines he happened across as a young man, an imploring his neighbors to push for more. To represent the meaningful interests to the Sultan and the Empire economic titans serve as advisors on the Council to the Sultan.
 The people of Arkana place high value in their economic and social status. The most influential people are the economic titans that call Arkana home and are the leaders of their respective burgs. The rule of the Sultan was started by having buskets of money so it only seems fitting. The sparse settlements throughout these lands are densely populated with most people congregating in the cities.
 
-<img src='https://www.gmbinder.com/images/TCAyokb.png' style='position:absolute;top:250px;left:8px;width:800px' />
+<img src='https://www.gmbinder.com/images/TCAyokb.png' style='width:800px' />
 
 </div>
 
@@ -690,7 +690,7 @@ ___
 
 Rubai is the shining gem of Arkana, home to the Sultan and the Palace and by far the greatest city the nation has. Situated between the oil fields and Exsalted Hills it is an oasis itself situated between the Twin Lakes of Oasis in the desert. The city is a hub for commerce and influence as money seems to drawn here to spend free and business time in this bustling city.
 
-<img src='https://www.gmbinder.com/images/THe01cS.jpeg' style='position:absolute;top:175px;left:50px;height:800px'/>
+<img src='https://www.gmbinder.com/images/THe01cS.jpeg' style='height:800px'/>
 
 </div>
 
@@ -814,7 +814,7 @@ The Alteric Union is run by a council representative of their population. Counci
 The forest dwellers of the lands of Alteria are some of the most resourceful people I've came across in my adventures. The use of the land in conjunction with their cities is breathtaking, they are truly in touch with the nature around them. Most of the citizens here despise conflict despite their zealous neighbors but are ready to defend their land effectively and use it to their advantage.
 
 
-<img src='https://www.gmbinder.com/images/qOFUVBl.jpg' style='position:absolute;top:250px;left:8px;width:800px' />
+<img src='https://www.gmbinder.com/images/qOFUVBl.jpg' style='width:800px' />
 
 </div>
 
@@ -829,7 +829,7 @@ ___
 Timberbay is one of the most fascinating city in all the lands I have ever seen with the city built into the trees almost exclusively with very few residing on the ground. The port has seen a crazy boom with the trade opening between Alteria and Arkana. Members of the council stay and meet here when not in the Enclave.
 
 
-<img src='https://www.gmbinder.com/images/PWQxLqA.png' style='position:absolute;top:175px;left:120px;height:825px'/>
+<img src='https://www.gmbinder.com/images/PWQxLqA.png' style='height:825px'/>
 
 </div>
 
@@ -888,7 +888,7 @@ This government has three branches, Executive, Judicial, and Legislative. There 
     
 Everyone in Ebroria is undoubtedly their own person and that's what drew them all together. While strong individualists they are very protective over their Nation. Ebroria is built upon everyone being heard so it is not uncommon for the Executive to field questions from the people in town halls or even ask for their opinions on decisions when they have a tough decision.
 
-<img src='https://www.gmbinder.com/images/weNhVSV.png' style='position:absolute;top:350px;left:10px;width:800px' />
+<img src='https://www.gmbinder.com/images/weNhVSV.png' style='width:800px' />
 
 </div>
 
@@ -902,7 +902,7 @@ ___
 
 The city of Spirepeak is built into the side of Spirepeak Summit with Spirepeak Keep being the gem of this city in the clouds. The Executive has a place here in the keep but is mostly traveling back to the Enclave shortly after handling business ensuring the interests of the people are represented. The high court meets in the keep as well for any vital cases once a season. Otherwise this city is quite populated despite the elevation and has all the niceties of a large city anywhere else.
 
-<img src='https://www.gmbinder.com/images/50gJTRY.jpg' style='position:absolute;top:175px;left:130px;height:800px'/>
+<img src='https://www.gmbinder.com/images/50gJTRY.jpg' style='height:800px'/>
 
 </div>
 
@@ -1052,15 +1052,12 @@ Whitespire|Vekzia|21684
 
 <div class='wide' style="text-align: center">
 
-<img src='https://www.gmbinder.com/images/Yt8iN6Z.jpg' style='position:absolute;top:100px;left:0px;width:100%;'/>
+<img src='https://www.gmbinder.com/images/Yt8iN6Z.jpg' style='width:100%;'/>
 
 </div>
 
-\pagebreak
-
-
 <div class='wide' style="text-align: center">
 
-<img src='https://i.ibb.co/v3PBnDr/Player-Map.png' style='position:absolute;top:0px;left:100px;height:100%;'/>
+<img src='https://i.ibb.co/v3PBnDr/Player-Map.png' style='height:100%;'/>
 
 </div>
