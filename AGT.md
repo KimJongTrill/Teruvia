@@ -1,3 +1,6 @@
+layout: page
+title: "Adventurer's Guide to Térûvia"
+permalink: /Teruvia/AGT
 
 <img src='https://www.gmbinder.com/images/4sQVOJX.jpg'  style='position:absolute;top:0px;left:0px;height:100%;width:100%'/>
 
