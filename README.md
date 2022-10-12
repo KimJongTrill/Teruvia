@@ -1,5 +1,5 @@
 # Character Creation
-* **Level: 4 w/ free Feat**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
+* **Level: 6 w/ free Feat**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
 * **Hit Dice.** Use the average.
 * **Ability Scores:** Go to *#stat-gen* in the Discord and enter `!rollstats`, arrange as desired.
 * **Equipment:** One *Common* and *Uncommon* Magic Item tied to your backstory, along with your standard starting equipment, open to your ideas for weapon customization for flavor.
@@ -35,20 +35,21 @@ _____
 
 ### Variant Rules Used
 ___
-- **Customizing Your Origin** [TCE 8]
+- **Customizing Your Origin** [TCE 8] *flexible racial scores, profs, etc.*
 - **Multiclassing** [PHB 163] *1 class additional, with RP reason*
 - **Feats** [PHB 165] *ASI alternative*
 - **Cleaving** [DMG 272] *Doesn't have to be unharmed*
-- **Firearms** [DMG 267] *See Aurora for Firearms*
+- **Firearms** [DMG 267] *See Aurora or #teruvia-info for Firearms*
 - **Downtime** [XGE 123+] *5eTools to see all*
 - **Spell Points** [DMG 288] *for Sorcerers only, count as Sorcery Points*
 - **Optional Class Features** [TCE+] *Aurora or 5eTools to see all*
+- **One D&D Exhaustion** *see #teruvia-info*
 
 ### Homebrew
 * Dungeon Dude's Crits - *regular dice + maxed crit dice*
-* Critical Role's Rapid Quaffing - *BA self-potioning*
-* Teruvian Gunslinger - *see class and guns in Aurora*
-* College of the Maestro - *see PDF in discord*
+* Critical Role's Rapid Quaffing - *BA self-potioning, action to feed others*
+* Teruvian Gunslinger - *see class and guns in Aurora or #teruvia-info*
+* College of the Maestro - *see PDF in #teruvia-info*
 * Blood Hunter, no Mutant - *D&D Beyond*
 * Unarmed Strikes can Smite
 * Attunement Slots = PB if ≥ 3
