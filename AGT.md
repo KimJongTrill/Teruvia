@@ -168,7 +168,6 @@ Rikkus is the god of good fortune and finds praise whenever those need to find l
 Verdana is the goddess of the earth and responsible for all of the growth so her followers sprout up everywhere. She is depicted as a tall slender woman with long red hair, fair skin, and a fan of leafly fashion. Worshippers are plentiful and tend to come in the form of naturalists, shepherds and outsiders.
 
 
-<div class='wide'>
 
 # Kolian Kingdom
 
@@ -179,11 +178,6 @@ The Dwarven Feldar Family bloodline has ruled since the Armistice was formed, cu
 
 <img src='https://www.gmbinder.com/images/0D7EJA6.jpg' style='height:750px' />
 
-</div>
-
-
-
-<div class='wide'>
 
 ## Feldarholmr
 **Population** 5.9K
@@ -194,7 +188,6 @@ Serving as the de facto capital for the Kolian Kingdom the city serves as the in
 
 <img src='https://www.gmbinder.com/images/QjRnmNs.png' style='height:800px'/>
 
-</div>
 
 
 
@@ -275,10 +268,6 @@ This port city is a center for commerce, being the largest city in the nation, i
  
 
 
-
-
-<div class='wide' >
-
 # Eshean Empire
 
 The Esheans are a proud nation of fierce warriors and influential artists, but not all warriors fight with their bodies, for the renowned Philosophers that argue in the court of Romana are just as revered as the Gladiators that fight next door in the coliseum. Their culture was likely the influence for Ancient Romans and Greeks in the renowned fiction author B.J. Humpcraft's series of books.
@@ -288,11 +277,7 @@ Three Royal Families recognized the Ek'Sha Orc bloodline, Fus'Roh Dragonborn blo
 
 <img src='https://www.gmbinder.com/images/Jl2vQC2.jpg' style='width:800px'/>
 
-</div>
 
-
-
-<div class='wide' >
 
 ## Romana
 **Population** 14.5K
@@ -302,8 +287,6 @@ Romana, the capital of the Eshean Empire, is built around a keep surrounded by c
 
 
 <img src='https://www.gmbinder.com/images/sTDsIBI.png' style='height:750px'/>
-
-</div>
 
 
 
@@ -430,9 +413,6 @@ This city is the gate to the Eshean Wood and the path that goes through to Evexu
 
 
 
-
-<div class='wide'>
-
 # Vekzian Dominion
 
 The High Vekz is the title of the ruler of the Vekzian Dominion. A spiritual successor chosen by the current High Vekz, whom was chosen by the previous. Those that show affinity for the gifts of the High Vekz are sent to Tal'Dorei to join the Mercer Academy where they learn the rites and rituals related to the High Vekz and their traditions, although only one is chosen they can be chosen at anytime, as the High Vekz will know when their successor is ready. Those that are unchosen are still set up to be the leaders of their communities.
@@ -441,11 +421,6 @@ The Veks are a neat and tidy people known to not be seen with nary a hair out of
 
 <img src='https://www.gmbinder.com/images/El3eL3q.png' style='width:800px' />
 
-</div>
-
-
-
-<div class='wide'>
 
 ## Whitespire
 **Population** 21.5K
@@ -454,8 +429,6 @@ ___
 Whitspire is home of the famous Castle Whitespire, seat of the High Vekz. Nestled in the valley by Lake Whitespire, this is considered the shining gem of the Vekzian Dominon. Much can be found in this enormous city with anything you could look for on top of being one of the cleanest places I've even been to. The inns and taverns are some of the most well run but don't try to start a fight, they're quick to break it up. 
 
 <img src='https://www.gmbinder.com/images/pp1BGe8.png' style='width:700px'/>
-
-</div>
 
 
 
@@ -516,8 +489,6 @@ This city at the border of the Eshean and Vekzian nations is a common spot for t
 
 
 
-<div class='wide'>
-
 # Holy State of Charbotia
 
 Each God has chosen a High Priest to represent them outside of Olympana. The de facto leader of Charbotia is the Panthean, whom is chosen from among each of the High Priests. The Panthean stays in The Enclave to serve as a voice of the Gods for the representatives and to break any ties for decisions, while the High Priests lead their respective communities.
@@ -526,11 +497,7 @@ Well the Charbotians are probably the reason the gods haven't smited the rest of
 
 <img src='https://www.gmbinder.com/images/hHbVyL5.jpg' style='width:800px' />
 
-</div>
 
-
-
-<div class='wide'>
 
 ## Olympana
 **Population** 46K
@@ -540,8 +507,6 @@ Olympana is a sprawling work of art with the shining gem as the centerpiece of t
 
 
 <img src='https://www.gmbinder.com/images/KhQhydG.jpg' style='width:700px'/>
-
-</div>
 
 
 
@@ -604,9 +569,6 @@ This city is built using the surrounding terrain as mush as possible with houses
 
 
 
-
-<div class='wide'>
-
 # Arkanan Sultanate
 
 Head of the government in Arkana is the Sultan from the Rethzaki Family. The first Sultan Jafar Rethzaki was the first leader simply by raising his independent army off the fortune made from the oil and salt mines he happened across as a young man, an imploring his neighbors to push for more. To represent the meaningful interests to the Sultan and the Empire economic titans serve as advisors on the Council to the Sultan.
@@ -614,11 +576,7 @@ The people of Arkana place high value in their economic and social status. The m
 
 <img src='https://www.gmbinder.com/images/TCAyokb.png' style='width:800px' />
 
-</div>
 
-
-
-<div class='wide'>
 
 ## Rubai
 **Population** 18.5K
@@ -628,7 +586,7 @@ Rubai is the shining gem of Arkana, home to the Sultan and the Palace and by far
 
 <img src='https://www.gmbinder.com/images/THe01cS.jpeg' style='height:800px'/>
 
-</div>
+
 
 
 
@@ -741,7 +699,6 @@ This large city is found deep within the desert a bit of distance from the shore
 
 
 
-<div class='wide'>
 
 # Alteric Union
 
@@ -752,11 +709,8 @@ The forest dwellers of the lands of Alteria are some of the most resourceful peo
 
 <img src='https://www.gmbinder.com/images/qOFUVBl.jpg' style='width:800px' />
 
-</div>
 
 
-
-<div class='wide'>
 
 ## Timberbay
 **Population** 7.5K
@@ -767,7 +721,6 @@ Timberbay is one of the most fascinating city in all the lands I have ever seen 
 
 <img src='https://www.gmbinder.com/images/PWQxLqA.png' style='height:825px'/>
 
-</div>
 
 
 
@@ -816,7 +769,6 @@ This smaller port has a sizeable trading presence and sees quite a bit of traffi
 
 
 
-<div class='wide'>
 
 # Ebrorian Republic
 
@@ -826,11 +778,10 @@ Everyone in Ebroria is undoubtedly their own person and that's what drew them al
 
 <img src='https://www.gmbinder.com/images/weNhVSV.png' style='width:800px' />
 
-</div>
 
 
 
-<div class='wide'>
+
 
 ## Spirepeak
 **Population** 12.5K
@@ -840,7 +791,7 @@ The city of Spirepeak is built into the side of Spirepeak Summit with Spirepeak 
 
 <img src='https://www.gmbinder.com/images/50gJTRY.jpg' style='height:800px'/>
 
-</div>
+
 
 
 
@@ -890,14 +841,16 @@ This logging town boasts a robust port and hearty people, the swans are quite be
 
 
 
-<div class='wide' style="text-align: center">
+
+
+
+
 
 
 
 # Census Results from 1064
-<div style='margin:10px;'> </div>
 
-</div>
+
 
 Burg|Nation|Population
 |:--|:--|--:|
@@ -984,16 +937,7 @@ Whitespire|Vekzia|21684
 
 
 
-
-
-<div class='wide' style="text-align: center">
-
 <img src='https://www.gmbinder.com/images/Yt8iN6Z.jpg' style='width:100%;'/>
-
-</div>
-
-<div class='wide' style="text-align: center">
 
 <img src='https://i.ibb.co/v3PBnDr/Player-Map.png' style='height:100%;'/>
 
-</div>
