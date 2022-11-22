@@ -1,5 +1,5 @@
 # Character Creation
-* **Level: 6 w/ free Feat**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
+* **Level: 7 w/ free Feat**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
 * **Hit Dice.** Use the average.
 * **Ability Scores:** Go to *#stat-gen* in the Discord and enter `!rollstats`, arrange as desired.
 * **Equipment:** One *Common* and *Uncommon* Magic Item tied to your backstory, along with your standard starting equipment, open to your ideas for weapon customization for flavor.
@@ -29,8 +29,8 @@ Tortle|Tiefling|Satyrs|Vedalken|Owlin|Warforged| |Shifter
 _____
 - **Quick Rest.** 15 minutes, use hit die only.
 - **Short Rest.** 1 hour, everything regained as normal, if **Accelerated** only takes 15 minutes.
-- **Long Rest.** 8 hours, *4 light/4 sleep*, **Short Rest** at beginning, regain normal hit die at 4 hour mark, features at 8, must use Hit Die to regain health.
-- **Full Rest.** Full night sleep after downtime day in Burg. All Hit Die Regained, HP Max reset and filled, and you gain an **Accelerated Short Rest** to be used before your next **Full Rest**.
+- **Long Rest.** 8 hours, *4 light/4 sleep*, **Short Rest** at beginning, half your hit die (round down) at 4 hour mark, features at 8, must use Hit Die to regain health.
+- **Full Rest.** Full night sleep after downtime day in Burg or equivalent. All Hit Die Regained, HP Max reset and filled, 1 level of Exhaustion removed, and you gain an **Accelerated Short Rest** to be used before your next **Full Rest**.
 
 
 ### Variant Rules Used
@@ -47,10 +47,13 @@ ___
 
 ### Homebrew
 * Dungeon Dude's Crits - *regular dice + maxed crit dice*
-* Critical Role's Rapid Quaffing - *BA self-potioning, action to feed others*
-* Teruvian Gunslinger - *see class and guns in Aurora or #teruvia-info*
 * College of the Maestro - *see PDF in #teruvia-info*
 * Blood Hunter, no Mutant - *D&D Beyond*
+* Rapid Quaffing - *Tal’Dorei Campaign Setting Reborn*
+* Alternative Resurrection Rules: Fading Spirits - *Tal’Dorei Campaign Setting Reborn*
+
+### House Rules
+* Térûvian Gunslinger w/ Firearms - *see class and guns in Aurora or #teruvia-info*
 * Unarmed Strikes can Smite
 * Attunement Slots = PB if ≥ 3
 * Shield Master - *BA allowed before attacking*
@@ -74,3 +77,4 @@ ___
 
 **Adventurer's Guide to Térûvia** - `https://www.gmbinder.com/pdf/-MxkLio91IPl29SFoO8H/adventurers-guide-to-trvia.pdf`
 
+**Térûvian Gunslinger** - `https://www.gmbinder.com/share/-MVUAcE0P9TneuvQolZf`
