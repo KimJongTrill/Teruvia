@@ -1,15 +1,15 @@
 # Character Creation
-* **Level: 7 w/ free Feat**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
+* **Level: 4**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
 * **Hit Dice.** Use the average.
-* **Ability Scores:** Go to *#stat-gen* in the Discord and enter `!rollstats`, arrange as desired.
-* **Equipment:** One *Common* and *Uncommon* Magic Item tied to your backstory, along with your standard starting equipment, open to your ideas for weapon customization for flavor.
+* **Ability Scores:** Point Buy.
+* **Equipment:** One *Common* and *Uncommon* Magic Item, Starting Equipment, 500gp in other equipment.
 * **Classes.** Any official WOTC 5e content or specified Homebrew. 2 classes max.
 * **Races.** Any listed race and all their official variants/halfs, use MotM version if multiple. Lifespan is normalized to human, fey based races can go up to high 200s. Nation is just a suggestion, but remember how being different might affect your character.
 
-Reach out for any additional details about big picture stuff, feel free to give their home some life with small details that you feel fit the area. Compelling characters have flaws, so play into your weaknesses not just strengths. Secrets are encouraged about your past to keep from the party, and even some you might give me the opportunity to keep from you. Don't feel bound by the burgs given for there are plenty of not officially named smaller settlements peppered all throughout Térûvia that could have as few as double digits to as many as a couple hundred people. While you can have grand ideas for your character remember you are currently level 4, so keep the exploits smaller scale.
+You are a member of The Golden Vault, a decentralized network of thieves that operate across Térûvia.
 
 
-## Sessions will be Thursdays at 7pm, changing as needed
+## Session will be Monday at 7pm
 
 ### Races and Typical Home Nations
 
@@ -18,8 +18,8 @@ Kol|Eshea|Vekzia|Arkana|Alteria|Ebroria|Charbotia|Modifications|
 Dwarf|Bugbear|Aasimar|Genasi [Fire]|Aarakocra|Genasi [Water] | *Devout Religious* |Changeling
 Gnome|Dragonborn|Elves [All]|Kenku|Centaur|Grung||Custom
 Goliath|Hobgoblin|Fairy|Lizardfolk|Firbolg|Humans|	|Dhampir
-Halfling|Leonin|Harengon|Loxodon|Genasi [Air]|Kobolds| |Hexblood
-Minoutaur|Orcs|Kalashtar|Tabaxi|Genasi [Earth]|Triton| |Reborn
+Halfling|Leonin|Harengon|Loxodon|Genasi [Air & Earth]|Kobolds| |Hexblood
+Minoutaur|Orcs|Kalashtar|Tabaxi|Goblin|Triton| |Reborn
 Tortle|Tiefling|Satyrs|Vedalken|Owlin|Warforged| |Shifter
 
 # House Rules
