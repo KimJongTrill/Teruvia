@@ -1,5 +1,5 @@
 # Character Creation
-* **Level: 4**, accompanied with a level appropriate, one paragraph to one page-ish, backstory.
+* **Level: 4**, with free Feat.
 * **Hit Dice.** Use the average.
 * **Ability Scores:** Point Buy.
 * **Equipment:** One *Common* and *Uncommon* Magic Item, Starting Equipment, 500gp in other equipment.
